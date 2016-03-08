@@ -1,0 +1,137 @@
+[
+    {
+        "name": "PHP Surrey",
+        "first_meetup": "2015-09-07",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Guildford, United Kingdom",
+                "first_meetup": "2015-09-07",
+                "last_meetup": ""
+            }
+        ],
+        "website": "http://phpsurrey.uk",
+        "twitter": "@phpsurrey",
+        "calendar_feed": ""
+    },
+    {
+        "name": "PHP Quebec",
+        "first_meetup": "2002-09-02"
+    },
+    {
+        "name": "PHP Hampshire",
+        "first_meetup": "2011-06-04"
+    },
+    {
+        "name": "PHP London",
+        "first_meetup": "2004-05-06"
+    },
+    {
+        "name": "PHPWM",
+        "first_meetup": "2004"
+    },
+    {
+        "name": "PHPMinds",
+        "first_meetup": "2015-12-17"
+    },
+    {
+        "name": "PHP Dublin",
+        "first_meetup": "2014"
+    },
+    {
+        "name": "Atlanta PHP",
+        "first_meetup": "2004-03-01"
+    },
+    {
+        "name": "Memphis PHP",
+        "first_meetup": "2010-05-23"
+    },
+    {
+        "name": "Chicago PHP",
+        "first_meetup": "2000-02-26"
+    },
+    {
+        "name": "GlasgowPHP",
+        "first_meetup": "2014-08-01"
+    },
+    {
+        "name": "PHP Berkshire",
+        "first_meetup": "2015-04-01"
+    },
+    {
+        "name": "PHPNW",
+        "first_meetup": "2008-07-01"
+    },
+    {
+        "name": "Dallas PHP",
+        "first_meetup": "2004-09-14"
+    },
+    {
+        "name": "Minnesota PHP",
+        "first_meetup": "2009-11-17"
+    },
+    {
+        "name": "PHPUG Rheinhessen",
+        "first_meetup": "2010-01-12"
+    },
+    {
+        "name": "Milwaukee PHP",
+        "first_meetup": "2010-01-12"
+    },
+    {
+        "name": "PHPSW",
+        "first_meetup": "2010-09-01"
+    },
+    {
+        "name": "Munich PHP",
+        "first_meetup": "2002-02-01"
+    },
+    {
+        "name": "AmsterdamPHP",
+        "first_meetup": "2012-06-01"
+    },
+    {
+        "name": "Nijmegen PHP",
+        "first_meetup": "2015-01-01"
+    },
+    {
+        "name": "PHPZwolle",
+        "first_meetup": "2015-08-26"
+    },
+    {
+        "name": "Sheffield PHP",
+        "first_meetup": "2010-08-11"
+    },
+    {
+        "name": "Nashville PHP",
+        "first_meetup": "2004-10-01"
+    },
+    {
+        "name": "The Frankfurt PHPUG",
+        "first_meetup": "2001-12-01"
+    },
+    {
+        "name": "AFUP",
+        "first_meetup": "2001-11-26"
+    },
+    {
+        "name": "PHP User Group Roma",
+        "first_meetup": "2011-09-01"
+    },
+    {
+        "name": "GTA PHP",
+        "first_meetup": "2010-04-19"
+    },
+    {
+        "name": "PHPUG Münster(land)",
+        "first_meetup": "2015-11-01"
+    },
+    {
+        "name": "PHP Montevideo",
+        "first_meetup": "2013-06-25"
+    },
+    {
+        "name": "Madison PHP",
+        "first_meetup": "2004-12-17"
+    }
+]
