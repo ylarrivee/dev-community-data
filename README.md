@@ -1,5 +1,7 @@
 # PHP UG Data
 
+[![Build Status](https://travis-ci.org/afilina/phpug-data.svg?branch=master)](https://travis-ci.org/afilina/phpug-data)
+
 The goal is simple: collect all data, current and historical for anyone to use in order to make a stronger PHP community.
 
 Feel free to add your own user group, fix erroneous data and add additional fields.
