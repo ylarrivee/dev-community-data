@@ -92,6 +92,19 @@
         "calendar_feed": "https://opentechcalendar.co.uk/api1/group/272/events.create.atom"
     },
     {
+        "name": "DundeePHP",
+        "first_meetup": "2015-08-20",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Dundee, Scotland, United Kingdom"
+            }
+        ],
+        "website": "http://dundeephp.co.uk/",
+        "twitter": "@dundeephp",
+        "calendar_feed": "https://opentechcalendar.co.uk/api1/group/296/events.create.atom"
+    },
+    {
         "name": "PHP Berkshire",
         "first_meetup": "2015-04-01"
     },
