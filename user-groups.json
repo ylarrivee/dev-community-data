@@ -16,7 +16,22 @@
     },
     {
         "name": "PHP Quebec",
-        "first_meetup": "2002-09-02"
+        "first_meetup": "2002-09-02",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Quebec, QC, Canada"
+            },
+            {
+                "name": "Sherbrooke, QC, Canada"
+            },
+            {
+                "name": "Montreal, QC, Canada"
+            }
+        ],
+        "website": "http://www.phpquebec.org/",
+        "twitter": "@phpquebec",
+        "calendar_feed": "http://www.meetup.com/PHPQuebec/events/rss/"
     },
     {
         "name": "PHP Hampshire",
