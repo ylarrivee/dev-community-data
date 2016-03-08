@@ -116,7 +116,16 @@
     },
     {
         "name": "AmsterdamPHP",
-        "first_meetup": "2012-06-01"
+        "first_meetup": "2012-06-21",
+        "locations": [
+            {
+                "name": "Amsterdam, The Netherlands",
+                "first_meetup": "2012-06-21",
+            }
+        ],
+        "website": "http://php.amsterdam",
+        "twitter": "@amsterdamphp",
+        "calendar_feed": "http://www.meetup.com/amsterdamphp/events/rss/"
     },
     {
         "name": "Nijmegen PHP",
