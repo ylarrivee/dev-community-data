@@ -35,7 +35,18 @@
     },
     {
         "name": "PHP Hampshire",
-        "first_meetup": "2011-06-04"
+        "first_meetup": "2011-06-04",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Portsmouth, United Kingdom",
+                "first_meetup": "2011-06-04",
+                "last_meetup": ""
+            }
+        ],
+        "website": "http://www.phphants.co.uk/",
+        "twitter": "@phphants",
+        "calendar_feed": "http://www.phphants.co.uk/meetups.ics"
     },
     {
         "name": "PHP London",
