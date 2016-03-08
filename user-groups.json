@@ -106,6 +106,20 @@
         "first_meetup": "2012-06-01"
     },
     {
+        "name": "PHP Limburg BE",
+        "first_meetup": "2015-02-19",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Limburg, Belgium",
+                "first_meetup": "2015-02-19"
+            }
+        ],
+        "website": "http://www.meetup.com/PHP-Limburg-BE",
+        "twitter": "@phplimbe",
+        "calendar_feed": "http://www.meetup.com/PHP-Limburg-BE/events/rss/"
+    },
+    {
         "name": "Nijmegen PHP",
         "first_meetup": "2015-01-01"
     },
