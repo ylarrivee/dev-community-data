@@ -126,8 +126,50 @@
         "first_meetup": "2001-12-01"
     },
     {
-        "name": "AFUP",
-        "first_meetup": "2001-11-26"
+        "name": "AFUP (Association Française des Utilisateurs de PHP)",
+        "first_meetup": "2001-11-26",
+        "locations" : [
+            {
+                "name": "France",
+                "first_meetup": "2001-11-26"
+            },
+            {
+                "name": "Paris, France",
+                "website": "http://paris.afup.org",
+                "twitter": "@AFUP_Paris"
+            },
+            {
+                "name": "Lyon, France",
+                "website": "http://lyon.afup.org",
+                "twitter": "@AFUP_lyon"
+            },
+            {
+                "name": "Nantes, France",
+                "website": "http://nantes.afup.org",
+                "twitter": "@AFUP_Nantes"
+            },
+            {
+                "name": "Lille, France",
+                "twitter": "@afup_lille"
+            },
+            {
+                "name": "Orléans, France",
+                "twitter": "@afupCentre"
+            },
+            {
+                "name": "Marseille, France",
+                "website": "http://marseille.afup.org",
+                "twitter": "@afup_marseille",
+                "calendar_feed": "http://www.meetup.com/fr-FR/Marseille-PHP-User-Group/"
+            },
+            {
+                "name": "Valence, France",
+                "website": "http://valence.afup.org",
+                "twitter": "@afup_dromardech"
+            }
+        ],
+        "website": "http://www.afup.org",
+        "twitter": "@afup"
     },
     {
         "name": "PHP User Group Roma",
