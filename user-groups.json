@@ -299,5 +299,18 @@
         "website": "http://soflophp.org",
         "twitter": "@soflophp",
         "calendar_feed": "http://www.meetup.com/South-Florida-PHP-Users-Group/events/rss/"
+    },
+    {
+        "name": "TrianglePHP",
+        "first_meetup": "2006-03-19",
+        "locations": [
+            {
+                "name": "Raleigh, NC, USA",
+                "first_meetup": "2006-03-19"
+            }
+        ],
+        "website": "http://www.meetup.com/trianglephp/",
+        "twitter": "@trianglephp",
+        "calendar_feed": "http://www.meetup.com/trianglephp/events/rss/"
     }
 ]
