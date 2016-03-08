@@ -148,5 +148,26 @@
     {
         "name": "Madison PHP",
         "first_meetup": "2004-12-17"
+    },
+    {
+        "name": "South Florida PHP User Group (SoFloPHP)",
+        "first_meetup": "2010-06-27",
+        "locations": [
+            {
+                "name": "Boca Raton, Florida",
+                "first_meetup": "2010-06-27"
+            },
+            {
+                "name": "Miami, Florida",
+                "first_meetup": "2013-05-15"
+            },
+            {
+                "name": "Jupiter, Florida",
+                "first_meetup": "2016-04-13"
+            }
+        ],
+        "website": "http://soflophp.org",
+        "twitter": "@soflophp",
+        "calendar_feed": "http://www.meetup.com/South-Florida-PHP-Users-Group/events/rss/"
     }
 ]
