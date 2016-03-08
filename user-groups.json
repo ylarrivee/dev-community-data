@@ -79,6 +79,19 @@
         "calendar_feed": "https://opentechcalendar.co.uk/api1/group/203/events.create.atom"
     },
     {
+        "name": "AberdeenPHP",
+        "first_meetup": "2015-04-01",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Aberdeen, Scotland, United Kingdom"
+            }
+        ],
+        "website": "http://aberdeenphp.co.uk/",
+        "twitter": "@aberdeenphp",
+        "calendar_feed": "https://opentechcalendar.co.uk/api1/group/272/events.create.atom"
+    },
+    {
         "name": "PHP Berkshire",
         "first_meetup": "2015-04-01"
     },
