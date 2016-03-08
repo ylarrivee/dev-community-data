@@ -35,11 +35,35 @@
     },
     {
         "name": "PHP Hampshire",
-        "first_meetup": "2011-06-04"
+        "first_meetup": "2011-06-04",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Portsmouth, United Kingdom",
+                "first_meetup": "2011-06-04",
+                "last_meetup": ""
+            }
+        ],
+        "website": "http://www.phphants.co.uk/",
+        "twitter": "@phphants",
+        "calendar_feed": "http://www.phphants.co.uk/meetups.ics"
     },
     {
         "name": "PHP London",
         "first_meetup": "2004-05-06"
+    },
+    {
+        "name": "Symfony UK",
+        "first_meetup": "2009-04-17",
+        "locations": [
+            {
+                "name": "London, United Kingdom",
+                "first_meetup": "2009-04-17"
+            }
+        ],
+        "website": "http://symfony.org.uk/",
+        "twitter": "@symfonyuk",
+        "calendar_feed": "http://www.meetup.com/symfony/events/rss/"
     },
     {
         "name": "PHPWM",
@@ -67,7 +91,42 @@
     },
     {
         "name": "GlasgowPHP",
-        "first_meetup": "2014-08-01"
+        "first_meetup": "2014-08-01",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Glasgow, Scotland, United Kingdom"
+            }
+        ],
+        "website": "http://glasgowphp.co.uk/",
+        "twitter": "@glasgowphp",
+        "calendar_feed": "https://opentechcalendar.co.uk/api1/group/203/events.create.atom"
+    },
+    {
+        "name": "AberdeenPHP",
+        "first_meetup": "2015-04-01",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Aberdeen, Scotland, United Kingdom"
+            }
+        ],
+        "website": "http://aberdeenphp.co.uk/",
+        "twitter": "@aberdeenphp",
+        "calendar_feed": "https://opentechcalendar.co.uk/api1/group/272/events.create.atom"
+    },
+    {
+        "name": "DundeePHP",
+        "first_meetup": "2015-08-20",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Dundee, Scotland, United Kingdom"
+            }
+        ],
+        "website": "http://dundeephp.co.uk/",
+        "twitter": "@dundeephp",
+        "calendar_feed": "https://opentechcalendar.co.uk/api1/group/296/events.create.atom"
     },
     {
         "name": "PHP Berkshire",
@@ -103,7 +162,30 @@
     },
     {
         "name": "AmsterdamPHP",
-        "first_meetup": "2012-06-01"
+        "first_meetup": "2012-06-21",
+        "locations": [
+            {
+                "name": "Amsterdam, The Netherlands",
+                "first_meetup": "2012-06-21",
+            }
+        ],
+        "website": "http://php.amsterdam",
+        "twitter": "@amsterdamphp",
+        "calendar_feed": "http://www.meetup.com/amsterdamphp/events/rss/"
+    },
+    {
+        "name": "PHP Limburg BE",
+        "first_meetup": "2015-02-19",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Limburg, Belgium",
+                "first_meetup": "2015-02-19"
+            }
+        ],
+        "website": "http://www.meetup.com/PHP-Limburg-BE",
+        "twitter": "@phplimbe",
+        "calendar_feed": "http://www.meetup.com/PHP-Limburg-BE/events/rss/"
     },
     {
         "name": "Nijmegen PHP",
@@ -126,8 +208,50 @@
         "first_meetup": "2001-12-01"
     },
     {
-        "name": "AFUP",
-        "first_meetup": "2001-11-26"
+        "name": "AFUP (Association Française des Utilisateurs de PHP)",
+        "first_meetup": "2001-11-26",
+        "locations" : [
+            {
+                "name": "France",
+                "first_meetup": "2001-11-26"
+            },
+            {
+                "name": "Paris, France",
+                "website": "http://paris.afup.org",
+                "twitter": "@AFUP_Paris"
+            },
+            {
+                "name": "Lyon, France",
+                "website": "http://lyon.afup.org",
+                "twitter": "@AFUP_lyon"
+            },
+            {
+                "name": "Nantes, France",
+                "website": "http://nantes.afup.org",
+                "twitter": "@AFUP_Nantes"
+            },
+            {
+                "name": "Lille, France",
+                "twitter": "@afup_lille"
+            },
+            {
+                "name": "Orléans, France",
+                "twitter": "@afupCentre"
+            },
+            {
+                "name": "Marseille, France",
+                "website": "http://marseille.afup.org",
+                "twitter": "@afup_marseille",
+                "calendar_feed": "http://www.meetup.com/fr-FR/Marseille-PHP-User-Group/"
+            },
+            {
+                "name": "Valence, France",
+                "website": "http://valence.afup.org",
+                "twitter": "@afup_dromardech"
+            }
+        ],
+        "website": "http://www.afup.org",
+        "twitter": "@afup"
     },
     {
         "name": "PHP User Group Roma",
@@ -150,24 +274,9 @@
         "first_meetup": "2004-12-17"
     },
     {
-        "name": "South Florida PHP User Group (SoFloPHP)",
-        "first_meetup": "2010-06-27",
-        "locations": [
-            {
-                "name": "Boca Raton, Florida",
-                "first_meetup": "2010-06-27"
-            },
-            {
-                "name": "Miami, Florida",
-                "first_meetup": "2013-05-15"
-            },
-            {
-                "name": "Jupiter, Florida",
-                "first_meetup": "2016-04-13"
-            }
-        ],
-        "website": "http://soflophp.org",
-        "twitter": "@soflophp",
-        "calendar_feed": "http://www.meetup.com/South-Florida-PHP-Users-Group/events/rss/"
+        "name": "BrightonPHP",
+        "first_meetup": "2012-10-15",
+        "website": "http://brightonphp.org",
+        "twitter": "@brightonphp"
     }
 ]
