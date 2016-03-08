@@ -190,5 +190,11 @@
     {
         "name": "Madison PHP",
         "first_meetup": "2004-12-17"
+    },
+    {
+        "name": "BrightonPHP",
+        "first_meetup": "2012-10-15",
+        "website": "http://brightonphp.org",
+        "twitter": "@brightonphp"
     }
 ]
