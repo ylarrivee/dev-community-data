@@ -91,7 +91,42 @@
     },
     {
         "name": "GlasgowPHP",
-        "first_meetup": "2014-08-01"
+        "first_meetup": "2014-08-01",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Glasgow, Scotland, United Kingdom"
+            }
+        ],
+        "website": "http://glasgowphp.co.uk/",
+        "twitter": "@glasgowphp",
+        "calendar_feed": "https://opentechcalendar.co.uk/api1/group/203/events.create.atom"
+    },
+    {
+        "name": "AberdeenPHP",
+        "first_meetup": "2015-04-01",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Aberdeen, Scotland, United Kingdom"
+            }
+        ],
+        "website": "http://aberdeenphp.co.uk/",
+        "twitter": "@aberdeenphp",
+        "calendar_feed": "https://opentechcalendar.co.uk/api1/group/272/events.create.atom"
+    },
+    {
+        "name": "DundeePHP",
+        "first_meetup": "2015-08-20",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Dundee, Scotland, United Kingdom"
+            }
+        ],
+        "website": "http://dundeephp.co.uk/",
+        "twitter": "@dundeephp",
+        "calendar_feed": "https://opentechcalendar.co.uk/api1/group/296/events.create.atom"
     },
     {
         "name": "PHP Berkshire",
