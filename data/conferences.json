@@ -517,5 +517,24 @@
         ],
         "website": "http://live.symfony.com",
         "twitter": "@symfonycon"
+    },
+    {
+        "key": "hackfest",
+        "name": "Hackfest",
+        "tags": ["infosec", "security"],
+        "first_event": "2008",
+        "last_event": "",
+        "events": [
+            {
+                "name": "Hackfest 2015",
+                "location": {
+                    "name": "Quebec, QC, Canada"
+                },
+                "event_start": "2015-11-06",
+                "event_end": "2015-11-07"
+            }
+        ],
+        "website": "http://www.hackfest.ca",
+        "twitter": "@hackfest_ca"
     }
 ]
