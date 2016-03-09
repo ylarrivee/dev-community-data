@@ -1,6 +1,6 @@
 # Community Data
 
-[![Build Status](https://travis-ci.org/afilina/dev-community-data.svg?branch=master)](https://travis-ci.org/afilina/community-data)
+[![Build Status](https://travis-ci.org/afilina/dev-community-data.svg?branch=master)](https://travis-ci.org/afilina/dev-community-data)
 
 The goal is simple: collect all data, current and historical for anyone to use in order to make a stronger developer community.
 
