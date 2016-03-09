@@ -41,6 +41,11 @@ The file [/data/conferences.json](https://github.com/afilina/dev-community-data/
         "tags": ["ruby"],
         "first_event": "yyyy-mm-dd",
         "last_event": "",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": true,
+            "travel_included": true
+        },
         "events": [
             {
                 "name": "Name of specific edition",
@@ -51,11 +56,6 @@ The file [/data/conferences.json](https://github.com/afilina/dev-community-data/
                 "event_end": "yyyy-mm-dd",
                 "cfp_start": "yyyy-mm-dd",
                 "cfp_end": "yyyy-mm-dd",
-                "speaker_kit": {
-                    "ticket_included": true,
-                    "hotel_included": true,
-                    "travel_included": true
-                },
                 "session_feed": "https://example.com/2016/sessions.json",
                 "speaker_feed": "https://example.com/2016/speakers.json",
                 "organizers": [
