@@ -420,6 +420,17 @@
         "twitter": "@PHPSevilla",
     },
     {
+        "name": "PHP Stockholm",
+        "tags": ["php"],
+        "first_meetup": "2012-05-05",
+    },
+    {
+        "name": "SweetlakePHP",
+        "tags": ["php"],
+        "first_meetup": "2013-08-02",
+        "twitter": "@SweetlakePHP",
+    },
+    {
         "name": "TrianglePHP",
         "tags": ["php"],
         "first_meetup": "2006-03-19",
