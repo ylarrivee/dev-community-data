@@ -411,36 +411,60 @@
         "name": "Aberdeen PHP",
         "tags": ["php"],
         "first_meetup": "2003-03-15",
-        "twitter": "@AberdeenPhp",
+        "twitter": "@AberdeenPhp"
     },
     {
         "name": "PHP Sevilla",
         "tags": ["php"],
         "first_meetup": "2014-07-03",
-        "twitter": "@PHPSevilla",
+        "twitter": "@PHPSevilla"
     },
     {
         "name": "PHP Stockholm",
         "tags": ["php"],
-        "first_meetup": "2012-05-05",
+        "first_meetup": "2012-05-05"
     },
     {
         "name": "SweetlakePHP",
         "tags": ["php"],
         "first_meetup": "2013-08-02",
-        "twitter": "@SweetlakePHP",
+        "twitter": "@SweetlakePHP"
     },
     {
         "name": "PHP West-Vlaanderen Usergroup",
         "tags": ["php"],
         "first_meetup": "2014-02-25",
-        "twitter": "@phpwvl",
+        "twitter": "@phpwvl"
     },
     {
         "name": "PHP User Group Torino",
         "tags": ["php"],
         "first_meetup": "2011-06-10",
-        "twitter": "@PUGTorino",
+        "twitter": "@PUGTorino"
+    },
+    {
+        "name": "PUG MoRe (Programmers User Group di Modena e Reggio Emilia)",
+        "tags": ["php"],
+        "first_meetup": "2014-02-15",
+        "twitter": "@pug_more"
+    },
+    {
+        "name": "PUG MoRe (Programmers User Group di Modena e Reggio Emilia)",
+        "tags": ["php"],
+        "first_meetup": "2014-02-15",
+        "twitter": "@pug_more"
+    },
+    {
+        "name": "PHPBenelux",
+        "tags": ["php"],
+        "first_meetup": "2008-05-27",
+        "locations": [
+            {
+                "name": "Wemmel, Belgium",
+                "first_meetup": "2008-05-27"
+            }
+        ],
+        "twitter": "@phpbenelux"
     },
     {
         "name": "TrianglePHP",
