@@ -548,7 +548,7 @@
         ],
         "website": "http://www.opencode.ca/",
         "twitter": "@opencodeqc"
-    }
+    },
     {
         "name": "Frederick WebTech",
         "tags": ["php", "javascript", "python", "ruby", "design", "technology"],
@@ -590,5 +590,5 @@
         "website": "http://www.meetup.com/DC-PHP/",
         "twitter": "@dcphp",
         "calendar_feed": "http://www.meetup.com/DC-PHP/events/rss/"
-    },
+    }
 ]
