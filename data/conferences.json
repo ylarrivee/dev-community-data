@@ -2,7 +2,7 @@
     {
         "key": "confoo",
         "name": "ConFoo",
-        "tags": ["php"],
+        "tags": ["php", "dotnet", "accessibility", "databases", "devops", "html", "css", "iot", "java", "js", "ecommerce", "nodejs", "mobile", "ruby", "performance", "quality", "security"],
         "first_event": "2010-03-08",
         "last_event": "",
         "events": [
