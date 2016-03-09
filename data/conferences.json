@@ -451,7 +451,7 @@
     {
         "key": "symfonycon",
         "name": "SymfonyCon",
-        "tags": ["php", "symfony", "mongodb", "javascript", "twig", "chef", "rest", "api", "doctrine", "cms", "grunt", "bower", "react", ""],
+        "tags": ["php", "symfony", "mongodb", "javascript", "twig", "chef", "rest", "api", "doctrine", "cms", "grunt", "bower", "react", "e-commerce", "composer", "angularjs", "varnish", "phpunit", "prophecy", "behat", "postgresql", "silex", "drupal", "devops", "hhvm", "typo3", "ezplatform", "php7"],
         "first_event": "2013-12-10",
         "last_event": "",
         "speaker_kit": {
@@ -468,7 +468,7 @@
                 "event_start": "2015-12-03",
                 "event_end": "2015-12-05",
                 "cfp_start": "2015-04-24",
-                "cfp_end": "2014-06-30",
+                "cfp_end": "2015-06-30",
                 "session_feed": "http://pariscon2015.symfony.com/speakers",
                 "speaker_feed": "http://pariscon2015.symfony.com/speakers",
                 "organizers": [
