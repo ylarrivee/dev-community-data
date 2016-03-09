@@ -2,9 +2,12 @@
 
 class JsonTest extends PHPUnit_Framework_TestCase
 {
-    public function testJsonUserGroups()
+    /**
+     * @dataProvider jsonFileProvider
+     */
+    public function testJsonFile($file)
     {
-        $filePath = dirname(__FILE__) . '/../data/user-groups.json';
+        $filePath = dirname(__FILE__) . '/../data/' . $file;
 
         $this->assertFileExists($filePath);
 
@@ -14,15 +17,11 @@ class JsonTest extends PHPUnit_Framework_TestCase
         $this->assertGreaterThan(0, count($data));
     }
 
-    public function testJsonConferences()
+    public function jsonFileProvider()
     {
-        $filePath = dirname(__FILE__) . '/../data/conferences.json';
-
-        $this->assertFileExists($filePath);
-
-        $data = json_decode(file_get_contents($filePath), true);
-
-        $this->assertEquals(JSON_ERROR_NONE, json_last_error());
-        $this->assertGreaterThan(0, count($data));
+        return [
+            ['user-groups.json'],
+            ['conferences.json'],
+        ];
     }
 }
