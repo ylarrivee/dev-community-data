@@ -36,6 +36,20 @@
         "calendar_feed": "http://www.meetup.com/PHPQuebec/events/rss/"
     },
     {
+        "name": "js-montreal",
+        "tags": ["js"],
+        "first_meetup": "2010-01-21",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Montreal, QC, Canada"
+            }
+        ],
+        "website": "http://js-montreal.org/",
+        "twitter": "@jsmontreal",
+        "calendar_feed": "http://www.meetup.com/js-montreal/events/rss/"
+    },
+    {
         "name": "PHP Hampshire",
         "tags": ["php"],
         "first_meetup": "2011-06-04",
