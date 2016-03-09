@@ -211,6 +211,40 @@
 	        "twitter": "@wecamp16"
 	    },
     {
+        "key": "phpbnl",
+        "name": "PHPBenelux",
+        "tags": ["php"],
+        "first_event": "2016-01-29",
+        "last_event": "",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": true,
+            "travel_included": true
+        },
+        "events": [
+            {
+                "name": "PHPBenelux 2016",
+                "location": {
+                    "name": "Antwerp, Belgium"
+                },
+                "event_start": "2016-01-29",
+                "event_end": "2016-01-30",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Michelangelo van Dam",
+                        "twitter": "@DragonBe"
+                    }
+                ]
+            }
+        ],
+        "website": "https://conference.phpbenelux.eu",
+        "twitter": "@phpbenelux"
+    },
+    {
         "key": "cakefest",
         "name": "CakeFest",
         "tags": ["php", "cakephp"],
