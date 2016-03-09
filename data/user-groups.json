@@ -431,6 +431,18 @@
         "twitter": "@SweetlakePHP",
     },
     {
+        "name": "PHP West-Vlaanderen Usergroup",
+        "tags": ["php"],
+        "first_meetup": "2014-02-25",
+        "twitter": "@phpwvl",
+    },
+    {
+        "name": "PHP User Group Torino",
+        "tags": ["php"],
+        "first_meetup": "2011-06-10",
+        "twitter": "@PUGTorino",
+    },
+    {
         "name": "TrianglePHP",
         "tags": ["php"],
         "first_meetup": "2006-03-19",
