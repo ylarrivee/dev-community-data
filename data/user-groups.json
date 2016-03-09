@@ -394,6 +394,20 @@
         "calendar_feed": "http://www.meetup.com/South-Florida-PHP-Users-Group/events/rss/"
     },
     {
+        "name": "Seattle PHP",
+        "tags": ["php"],
+        "first_meetup": "2003-03-15",
+        "locations": [
+            {
+                "name": "Seattle, WA, USA",
+                "first_meetup": "2006-03-15"
+            }
+        ],
+        "website": "http://www.meetup.com/seaphp/",
+        "twitter": "@seaphp",
+        "calendar_feed": "http://www.meetup.com/seaphp/events/rss/"
+    },
+    {
         "name": "TrianglePHP",
         "tags": ["php"],
         "first_meetup": "2006-03-19",
