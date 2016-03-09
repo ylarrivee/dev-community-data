@@ -279,6 +279,40 @@
         "twitter": "@cakephp"
     },
     {
+        "key": "phptek",
+        "name": "php[tek]",
+        "tags": ["php"],
+        "first_event": "2016-05-23",
+        "last_event": "",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": true,
+            "travel_included": true
+        },
+        "events": [
+            {
+                "name": "php[tek] 2016",
+                "location": {
+                    "name": "St. Louis, MO, USA"
+                },
+                "event_start": "2016-05-23",
+                "event_end": "2016-05-27",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Eli White",
+                        "twitter": "@EliW"
+                    }
+                ]
+            }
+        ],
+        "website": "https://tek.phparch.com/",
+        "twitter": "@phparch"
+    },
+    {
         "key": "sunshinephp",
         "name": "SunshinePHP",
         "tags": ["php"],
