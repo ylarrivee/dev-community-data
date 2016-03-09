@@ -204,5 +204,39 @@
 	        ],
 	        "website": "https://weca.mp/",
 	        "twitter": "@wecamp16"
-	    }
+	    },
+    {
+        "key": "cakefest",
+        "name": "CakeFest",
+        "tags": ["php", "cakephp"],
+        "first_event": "2016-05-26",
+        "last_event": "",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": true,
+            "travel_included": true
+        },
+        "events": [
+            {
+                "name": "CakeFest 2016",
+                "location": {
+                    "name": "Amsterdam, Netherlands"
+                },
+                "event_start": "2016-05-26",
+                "event_end": "2016-05-29",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Larry E. Masters",
+                        "twitter": "@PhpNut"
+                    }
+                ]
+            }
+        ],
+        "website": "http://cakefest.org/",
+        "twitter": "@cakephp"
+    }
 ]
