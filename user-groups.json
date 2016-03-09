@@ -129,6 +129,19 @@
         "calendar_feed": "https://opentechcalendar.co.uk/api1/group/296/events.create.atom"
     },
     {
+        "name": "Edpug",
+        "first_meetup": "2012-09-18",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Edinburgh, Scotland, United Kingdom"
+            }
+        ],
+        "website": "http://www.edpug.co.uk/",
+        "twitter": "@edpug",
+        "calendar_feed": "https://opentechcalendar.co.uk/api1/group/17/events.create.atom"
+    },
+    {
         "name": "PHP Berkshire",
         "first_meetup": "2015-04-01"
     },
