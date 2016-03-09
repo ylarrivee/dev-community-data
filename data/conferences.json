@@ -5,6 +5,11 @@
         "tags": ["php", "dotnet", "accessibility", "databases", "devops", "html", "css", "iot", "java", "js", "ecommerce", "nodejs", "mobile", "ruby", "performance", "quality", "security"],
         "first_event": "2010-03-08",
         "last_event": "",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": true,
+            "travel_included": true
+        },
         "events": [
             {
                 "name": "ConFoo 2010",
