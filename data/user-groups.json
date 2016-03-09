@@ -493,5 +493,21 @@
         "website": "http://www.phpamersfoort.nl/",
         "twitter": "@PHPAmersfoort",
         "calendar_feed": "http://www.meetup.com/PHPAmersfoort/events/rss/"
+	},
+    {
+        "name": "PHP Vegas",
+        "tags": ["php"],
+        "first_meetup": "",
+        "last_meetup": "2016-03-03",
+        "locations": [
+            {
+                "name": "The Innevation Center, Las Vegas, Nevada, United States",
+                "first_meetup": "",
+                "last_meetup": "2015-09-07"
+            }
+        ],
+        "website": "http://phpvegas.com/",
+        "twitter": "@PHPVegas",
+        "calendar_feed": "http://www.meetup.com/PHP-Vegas/events/rss/"
     }
 ]
