@@ -356,7 +356,16 @@
     {
         "name": "GTA PHP",
         "tags": ["php"],
-        "first_meetup": "2010-04-19"
+        "first_meetup": "2010-04-19",
+        "locations": [
+            {
+                "name": "Toronto, Ontario, Canada",
+                "first_meetup": "2010-04-19"
+            }
+        ],
+        "website": "http://gtaphp.org",
+        "twitter": "@gtaphp",
+        "calendar_feed": "http://www.meetup.com/GTA-PHP-User-Group-Toronto/events/rss/"
     },
     {
         "name": "PHPUG Münster(land)",
