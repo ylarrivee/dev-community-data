@@ -17,6 +17,56 @@
                 "speaker_feed": "https://confoo.ca/2010/speakers.json"
             },
             {
+                "name": "ConFoo 2011",
+                "location": {
+                    "name": "Montreal, QC, Canada"
+                },
+                "event_start": "2011-03-07",
+                "event_end": "2011-03-11",
+                "session_feed": "https://confoo.ca/2011/sessions.json",
+                "speaker_feed": "https://confoo.ca/2011/speakers.json"
+            },
+            {
+                "name": "ConFoo 2012",
+                "location": {
+                    "name": "Montreal, QC, Canada"
+                },
+                "event_start": "2012-02-27",
+                "event_end": "2012-03-02",
+                "session_feed": "https://confoo.ca/2012/sessions.json",
+                "speaker_feed": "https://confoo.ca/2012/speakers.json"
+            },
+            {
+                "name": "ConFoo 2013",
+                "location": {
+                    "name": "Montreal, QC, Canada"
+                },
+                "event_start": "2013-02-25",
+                "event_end": "2013-03-01",
+                "session_feed": "https://confoo.ca/2013/sessions.json",
+                "speaker_feed": "https://confoo.ca/2013/speakers.json"
+            },
+            {
+                "name": "ConFoo 2014",
+                "location": {
+                    "name": "Montreal, QC, Canada"
+                },
+                "event_start": "2014-02-24",
+                "event_end": "2014-12-28",
+                "session_feed": "https://confoo.ca/2014/sessions.json",
+                "speaker_feed": "https://confoo.ca/2014/speakers.json"
+            },
+            {
+                "name": "ConFoo 2015",
+                "location": {
+                    "name": "Montreal, QC, Canada"
+                },
+                "event_start": "2015-02-16",
+                "event_end": "2015-02-20",
+                "session_feed": "https://confoo.ca/2015/sessions.json",
+                "speaker_feed": "https://confoo.ca/2015/speakers.json"
+            },
+            {
                 "name": "ConFoo 2016",
                 "location": {
                     "name": "Montreal, QC, Canada"
