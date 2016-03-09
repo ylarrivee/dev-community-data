@@ -243,5 +243,111 @@
         ],
         "website": "http://cakefest.org/",
         "twitter": "@cakephp"
+    },
+    {
+        "key": "sunshinephp",
+        "name": "SunshinePHP",
+        "tags": ["php"],
+        "first_event": "2013-02-08",
+        "last_event": "",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": true,
+            "travel_included": true
+        },
+        "events": [
+            {
+                "name": "SunshinePHP 2017",
+                "location": {
+                    "name": "Miami, Florida"
+                },
+                "event_start": "2017-02-02",
+                "event_end": "2017-02-04",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Adam Culp",
+                        "twitter": "@adamculp"
+                    }
+                ]
+            },
+            {
+                "name": "SunshinePHP 2016",
+                "location": {
+                    "name": "Miami, Florida"
+                },
+                "event_start": "2016-02-04",
+                "event_end": "2016-02-06",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Adam Culp",
+                        "twitter": "@adamculp"
+                    }
+                ]
+            },
+            {
+                "name": "SunshinePHP 2015",
+                "location": {
+                    "name": "Miami, Florida"
+                },
+                "event_start": "2015-02-05",
+                "event_end": "2015-02-07",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Adam Culp",
+                        "twitter": "@adamculp"
+                    }
+                ]
+            },
+            {
+                "name": "SunshinePHP 2014",
+                "location": {
+                    "name": "Miami, Florida"
+                },
+                "event_start": "2014-02-06",
+                "event_end": "2014-02-08",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Adam Culp",
+                        "twitter": "@adamculp"
+                    }
+                ]
+            },
+            {
+                "name": "SunshinePHP 2013",
+                "location": {
+                    "name": "Miami, Florida"
+                },
+                "event_start": "2013-02-08",
+                "event_end": "2013-02-09",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Adam Culp",
+                        "twitter": "@adamculp"
+                    }
+                ]
+            }
+        ],
+        "website": "http://sunshinephp.com",
+        "twitter": "@sunshinephp"
     }
 ]
