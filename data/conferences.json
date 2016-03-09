@@ -451,7 +451,7 @@
     {
         "key": "symfonycon",
         "name": "SymfonyCon",
-        "tags": ["php", "symfony", "mongodb", "javascript", "twig", "chef", "rest", "api", "doctrine", "cms", "grunt", "bower", "react", "e-commerce", "composer", "angularjs", "varnish", "phpunit", "prophecy", "behat", "postgresql", "silex", "drupal", "devops", "hhvm", "typo3", "ezplatform", "php7"],
+        "tags": ["php", "symfony", "twig", "doctrine"],
         "first_event": "2013-12-10",
         "last_event": "",
         "speaker_kit": {
