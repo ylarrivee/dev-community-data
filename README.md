@@ -33,6 +33,7 @@ The file /data/user-groups.json lists all user groups. Leave "last_meetup" blank
 
 The file /data/conferences.json lists all user conferences. Leave "last_event" blank if still active.
 
+```json
 [
     {
         "key": "example",
@@ -64,3 +65,4 @@ The file /data/conferences.json lists all user conferences. Leave "last_event" b
         "twitter": "@twitter_handle"
     }
 ]
+```
