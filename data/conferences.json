@@ -97,119 +97,119 @@
         "website": "https://confoo.ca",
         "twitter": "@confooca"
     },
-	{
-	        "key": "wecamp",
-	        "name": "WeCamp",
-	        "tags": ["php", "development process"],
-	        "first_event": "2014-08-25",
-	        "last_event": "",
-	        "events": [
-	            {
-	                "name": "WeCamp 2014",
-	                "location": {
-	                    "name": "De Kluut, The Netherlands"
-	                },
-	                "event_start": "2014-08-25",
-	                "event_end": "2014-08-29",
-	                "cfp_start": "",
-	                "cfp_end": "",
-	                "session_feed": "",
-	                "speaker_feed": "",
-	                "organizers": [
-	                    {
-	                        "name": "Stefan Koopmanschap",
-	                        "twitter": "@skoop"
-	                    },
-	                    {
-	                        "name": "Mike van Riel",
-	                        "twitter": "@mvriel"
-	                    },
-	                    {
-	                        "name": "Jelrik van Hal",
-	                        "twitter": "@jelrikvh"
-	                    },
-	                    {
-	                        "name": "Monique Engelage",
-	                        "twitter": "@gwendolyn68"
-	                    },
-	                    {
-	                        "name": "Marjolein van Elteren",
-	                        "twitter": "@TearSong"
-	                    }
-	                ]
-	            },
-				{
-	                "name": "WeCamp 2015",
-	                "location": {
-	                    "name": "De Kluut, The Netherlands"
-	                },
-	                "event_start": "2015-08-25",
-	                "event_end": "2015-08-29",
-	                "cfp_start": "",
-	                "cfp_end": "",
-	                "session_feed": "",
-	                "speaker_feed": "",
-	                "organizers": [
-	                    {
-	                        "name": "Stefan Koopmanschap",
-	                        "twitter": "@skoop"
-	                    },
-	                    {
-	                        "name": "Mike van Riel",
-	                        "twitter": "@mvriel"
-	                    },
-	                    {
-	                        "name": "Jelrik van Hal",
-	                        "twitter": "@jelrikvh"
-	                    },
-	                    {
-	                        "name": "Monique Engelage",
-	                        "twitter": "@gwendolyn68"
-	                    },
-	                    {
-	                        "name": "Marjolein van Elteren",
-	                        "twitter": "@TearSong"
-	                    }
-	                ]
-	            },
-				{
-	                "name": "WeCamp 2016",
-	                "location": {
-	                    "name": "De Kluut, The Netherlands"
-	                },
-	                "event_start": "2016-08-23",
-	                "event_end": "2016-08-27",
-	                "cfp_start": "",
-	                "cfp_end": "",
-	                "session_feed": "",
-	                "speaker_feed": "",
-	                "organizers": [
-	                    {
-	                        "name": "Stefan Koopmanschap",
-	                        "twitter": "@skoop"
-	                    },
-	                    {
-	                        "name": "Mike van Riel",
-	                        "twitter": "@mvriel"
-	                    },
-	                    {
-	                        "name": "Monique Engelage",
-	                        "twitter": "@gwendolyn68"
-	                    },
-	                    {
-	                        "name": "Marjolein van Elteren",
-	                        "twitter": "@TearSong"
-	                    },
-	                    {
-	                        "name": "Ramon de la Fuente",
-	                        "twitter": "@f_u_e_n_t_e"
-	                    }
-	                ]
-	            }
-	        ],
-	        "website": "https://weca.mp/",
-	        "twitter": "@wecamp16"
-	    },
+    {
+            "key": "wecamp",
+            "name": "WeCamp",
+            "tags": ["php", "development process"],
+            "first_event": "2014-08-25",
+            "last_event": "",
+            "events": [
+                {
+                    "name": "WeCamp 2014",
+                    "location": {
+                        "name": "De Kluut, The Netherlands"
+                    },
+                    "event_start": "2014-08-25",
+                    "event_end": "2014-08-29",
+                    "cfp_start": "",
+                    "cfp_end": "",
+                    "session_feed": "",
+                    "speaker_feed": "",
+                    "organizers": [
+                        {
+                            "name": "Stefan Koopmanschap",
+                            "twitter": "@skoop"
+                        },
+                        {
+                            "name": "Mike van Riel",
+                            "twitter": "@mvriel"
+                        },
+                        {
+                            "name": "Jelrik van Hal",
+                            "twitter": "@jelrikvh"
+                        },
+                        {
+                            "name": "Monique Engelage",
+                            "twitter": "@gwendolyn68"
+                        },
+                        {
+                            "name": "Marjolein van Elteren",
+                            "twitter": "@TearSong"
+                        }
+                    ]
+                },
+                {
+                    "name": "WeCamp 2015",
+                    "location": {
+                        "name": "De Kluut, The Netherlands"
+                    },
+                    "event_start": "2015-08-25",
+                    "event_end": "2015-08-29",
+                    "cfp_start": "",
+                    "cfp_end": "",
+                    "session_feed": "",
+                    "speaker_feed": "",
+                    "organizers": [
+                        {
+                            "name": "Stefan Koopmanschap",
+                            "twitter": "@skoop"
+                        },
+                        {
+                            "name": "Mike van Riel",
+                            "twitter": "@mvriel"
+                        },
+                        {
+                            "name": "Jelrik van Hal",
+                            "twitter": "@jelrikvh"
+                        },
+                        {
+                            "name": "Monique Engelage",
+                            "twitter": "@gwendolyn68"
+                        },
+                        {
+                            "name": "Marjolein van Elteren",
+                            "twitter": "@TearSong"
+                        }
+                    ]
+                },
+                {
+                    "name": "WeCamp 2016",
+                    "location": {
+                        "name": "De Kluut, The Netherlands"
+                    },
+                    "event_start": "2016-08-23",
+                    "event_end": "2016-08-27",
+                    "cfp_start": "",
+                    "cfp_end": "",
+                    "session_feed": "",
+                    "speaker_feed": "",
+                    "organizers": [
+                        {
+                            "name": "Stefan Koopmanschap",
+                            "twitter": "@skoop"
+                        },
+                        {
+                            "name": "Mike van Riel",
+                            "twitter": "@mvriel"
+                        },
+                        {
+                            "name": "Monique Engelage",
+                            "twitter": "@gwendolyn68"
+                        },
+                        {
+                            "name": "Marjolein van Elteren",
+                            "twitter": "@TearSong"
+                        },
+                        {
+                            "name": "Ramon de la Fuente",
+                            "twitter": "@f_u_e_n_t_e"
+                        }
+                    ]
+                }
+            ],
+            "website": "https://weca.mp/",
+            "twitter": "@wecamp16"
+        },
     {
         "key": "phpbnl",
         "name": "PHPBenelux",
@@ -447,5 +447,75 @@
         ],
         "website": "http://sunshinephp.com",
         "twitter": "@sunshinephp"
+    },
+    {
+        "key": "symfonycon",
+        "name": "SymfonyCon",
+        "tags": ["php", "symfony", "mongodb", "javascript", "twig", "chef", "rest", "api", "doctrine", "cms", "grunt", "bower", "react", ""],
+        "first_event": "2013-12-10",
+        "last_event": "",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": true,
+            "travel_included": true
+        },
+        "events": [
+            {
+                "name": "SymfonyCon Paris 2015",
+                "location": {
+                    "name": "Paris, France"
+                },
+                "event_start": "2015-12-03",
+                "event_end": "2015-12-05",
+                "cfp_start": "2015-04-24",
+                "cfp_end": "2014-06-30",
+                "session_feed": "http://pariscon2015.symfony.com/speakers",
+                "speaker_feed": "http://pariscon2015.symfony.com/speakers",
+                "organizers": [
+                    {
+                        "name": "SensioLabs",
+                        "twitter": "@sensiolabs"
+                    }
+                ]
+            },
+            {
+                "name": "SymfonyCon Madrid 2014",
+                "location": {
+                    "name": "Madrid, Spain"
+                },
+                "event_start": "2014-11-27",
+                "event_end": "2014-11-29",
+                "cfp_start": "2014-06-17",
+                "cfp_end": "2014-09-04",
+                "session_feed": "http://madrid2014.symfony.com/speakers",
+                "speaker_feed": "http://madrid2014.symfony.com/speakers",
+                "organizers": [
+                    {
+                        "name": "SensioLabs",
+                        "twitter": "@sensiolabs"
+                    }
+                ]
+            },
+            {
+                "name": "SymfonyCon Warsaw 2013",
+                "location": {
+                    "name": "Warsaw, Poland"
+                },
+                "event_start": "2013-12-12",
+                "event_end": "2013-12-14",
+                "cfp_start": "2013-06-11",
+                "cfp_end": "2013-07-31",
+                "session_feed": "http://warsaw2013.symfony.com/speakers",
+                "speaker_feed": "http://warsaw2013.symfony.com/speakers",
+                "organizers": [
+                    {
+                        "name": "SensioLabs",
+                        "twitter": "@sensiolabs"
+                    }
+                ]
+            }
+        ],
+        "website": "http://live.symfony.com",
+        "twitter": "@symfonycon"
     }
 ]
