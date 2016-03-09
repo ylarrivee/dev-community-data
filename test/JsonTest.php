@@ -7,7 +7,7 @@ class JsonTest extends PHPUnit_Framework_TestCase
      */
     public function testJsonFile($file)
     {
-        $filePath = dirname(__FILE__) . '/../data/' . $file;
+        $filePath = __DIR__ . '/../data/' . $file;
 
         $this->assertFileExists($filePath);
 
