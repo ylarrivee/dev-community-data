@@ -41,5 +41,118 @@
         ],
         "website": "https://confoo.ca",
         "twitter": "@confooca"
-    }
+    },
+	{
+	        "key": "wecamp",
+	        "name": "WeCamp",
+	        "tags": ["php", "development process"],
+	        "first_event": "2014-08-25",
+	        "last_event": "",
+	        "events": [
+	            {
+	                "name": "WeCamp 2014",
+	                "location": {
+	                    "name": "De Kluut, The Netherlands"
+	                },
+	                "event_start": "2014-08-25",
+	                "event_end": "2014-08-29",
+	                "cfp_start": "",
+	                "cfp_end": "",
+	                "session_feed": "",
+	                "speaker_feed": "",
+	                "organizers": [
+	                    {
+	                        "name": "Stefan Koopmanschap",
+	                        "twitter": "@skoop"
+	                    },
+	                    {
+	                        "name": "Mike van Riel",
+	                        "twitter": "@mvriel"
+	                    },
+	                    {
+	                        "name": "Jelrik van Hal",
+	                        "twitter": "@jelrikvh"
+	                    },
+	                    {
+	                        "name": "Monique Engelage",
+	                        "twitter": "@gwendolyn68"
+	                    },
+	                    {
+	                        "name": "Marjolein van Elteren",
+	                        "twitter": "@TearSong"
+	                    }
+	                ]
+	            },
+				{
+	                "name": "WeCamp 2015",
+	                "location": {
+	                    "name": "De Kluut, The Netherlands"
+	                },
+	                "event_start": "2015-08-25",
+	                "event_end": "2015-08-29",
+	                "cfp_start": "",
+	                "cfp_end": "",
+	                "session_feed": "",
+	                "speaker_feed": "",
+	                "organizers": [
+	                    {
+	                        "name": "Stefan Koopmanschap",
+	                        "twitter": "@skoop"
+	                    },
+	                    {
+	                        "name": "Mike van Riel",
+	                        "twitter": "@mvriel"
+	                    },
+	                    {
+	                        "name": "Jelrik van Hal",
+	                        "twitter": "@jelrikvh"
+	                    },
+	                    {
+	                        "name": "Monique Engelage",
+	                        "twitter": "@gwendolyn68"
+	                    },
+	                    {
+	                        "name": "Marjolein van Elteren",
+	                        "twitter": "@TearSong"
+	                    }
+	                ]
+	            },
+				{
+	                "name": "WeCamp 2016",
+	                "location": {
+	                    "name": "De Kluut, The Netherlands"
+	                },
+	                "event_start": "2016-08-23",
+	                "event_end": "2016-08-27",
+	                "cfp_start": "",
+	                "cfp_end": "",
+	                "session_feed": "",
+	                "speaker_feed": "",
+	                "organizers": [
+	                    {
+	                        "name": "Stefan Koopmanschap",
+	                        "twitter": "@skoop"
+	                    },
+	                    {
+	                        "name": "Mike van Riel",
+	                        "twitter": "@mvriel"
+	                    },
+	                    {
+	                        "name": "Monique Engelage",
+	                        "twitter": "@gwendolyn68"
+	                    },
+	                    {
+	                        "name": "Marjolein van Elteren",
+	                        "twitter": "@TearSong"
+	                    },
+	                    {
+	                        "name": "Ramon de la Fuente",
+	                        "twitter": "@f_u_e_n_t_e"
+	                    }
+	                ]
+	            }
+	        ],
+	        "website": "https://weca.mp/",
+	        "twitter": "@wecamp16"
+	    }
 ]
