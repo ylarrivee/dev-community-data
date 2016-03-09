@@ -10,6 +10,8 @@ Feel free to add your own record, fix erroneous data and add additional fields.
 
 The file [/data/user-groups.json](https://github.com/afilina/dev-community-data/blob/master/data/user-groups.json) lists all user groups. Leave "last_meetup" blank if still active.
 
+Tip: add your entry to the position __before__ last to avoid merge conflicts.
+
 ```json
 {
     "name": "Full user group name",
@@ -32,6 +34,8 @@ The file [/data/user-groups.json](https://github.com/afilina/dev-community-data/
 ## Conferences
 
 The file [/data/conferences.json](https://github.com/afilina/dev-community-data/blob/master/data/conferences.json) lists all conferences. Leave "last_event" blank if still active.
+
+Tip: add your entry to the position __before__ last to avoid merge conflicts.
 
 ```json
 [
