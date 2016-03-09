@@ -20,7 +20,7 @@ The file [/data/user-groups.json](https://github.com/afilina/dev-community-data/
         {
             "name": "City, State (if applies), Country",
             "first_meetup": "yyyy-mm-dd",
-            "last_meetup": "yyyy-mm-dd",
+            "last_meetup": "yyyy-mm-dd"
         }
     ],
     "website": "http://example.com",

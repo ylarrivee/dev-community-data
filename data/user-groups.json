@@ -221,7 +221,16 @@
     {
         "name": "PHPUG Rheinhessen",
         "tags": ["php"],
-        "first_meetup": "2010-01-12"
+        "first_meetup": "2010-01-12",
+        "locations": [
+            {
+                "name": "Mainz, Germany",
+                "first_meetup": "2010-01-12"
+            }
+        ],
+        "website": "http://www.phpug-rheinhessen.de/",
+        "twitter": "@phpugrhh",
+        "calendar_feed": "https://calendar.google.com/calendar/ical/5mji2dluqeq0m44i3i8su12dlk%40group.calendar.google.com/public/basic.ics"
     },
     {
         "name": "Milwaukee PHP",
