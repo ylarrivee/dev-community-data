@@ -495,5 +495,13 @@
         "website": "http://phpvegas.com/",
         "twitter": "@PHPVegas",
         "calendar_feed": "http://www.meetup.com/PHP-Vegas/events/rss/"
+    },
+    {
+        "name": "PHP Leuven",
+        "tags": ["php"],
+        "first_meetup": "2015-02-05",
+        "website": "meetup.com/PHP-Leuven-Web-Innovation-Group/",
+        "twitter": "@phpleuven",
+        "calendar_feed": "http://www.meetup.com/PHP-Leuven-Web-Innovation-Group/events/rss/"
     }
 ]
