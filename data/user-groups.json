@@ -548,5 +548,18 @@
         ],
         "website": "http://www.opencode.ca/",
         "twitter": "@opencodeqc"
+    },
+    {
+        "name": "PHPSP",
+        "tags": ["php"],
+        "first_meetup": "2009-02-07",
+        "last_meetup": "2016-03-10",
+        "locations": [
+            {
+                "name": "São Paulo, SP, Brazil"
+            }
+        ],
+        "website": "http://phpsp.org.br/",
+        "twitter": "@phpsp"
     }
 ]
