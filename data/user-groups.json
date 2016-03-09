@@ -408,6 +408,18 @@
         "calendar_feed": "http://www.meetup.com/seaphp/events/rss/"
     },
     {
+        "name": "Aberdeen PHP",
+        "tags": ["php"],
+        "first_meetup": "2003-03-15",
+        "twitter": "@AberdeenPhp",
+    },
+    {
+        "name": "PHP Sevilla",
+        "tags": ["php"],
+        "first_meetup": "2014-07-03",
+        "twitter": "@PHPSevilla",
+    },
+    {
         "name": "TrianglePHP",
         "tags": ["php"],
         "first_meetup": "2006-03-19",
