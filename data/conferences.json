@@ -1,0 +1,45 @@
+[
+    {
+        "key": "confoo",
+        "name": "ConFoo",
+        "tags": ["php", "dotnet", "accessibility", "databases", "devops", "html", "css", "iot", "java", "js", "ecommerce", "nodejs", "mobile", "ruby", "performance", "quality", "security"],
+        "first_event": "2010-03-08",
+        "last_event": "",
+        "events": [
+            {
+                "name": "ConFoo 2010",
+                "location": {
+                    "name": "Montreal, QC, Canada"
+                },
+                "event_start": "2010-03-08",
+                "event_end": "2010-03-12",
+                "session_feed": "https://confoo.ca/2010/sessions.json",
+                "speaker_feed": "https://confoo.ca/2010/speakers.json"
+            },
+            {
+                "name": "ConFoo 2016",
+                "location": {
+                    "name": "Montreal, QC, Canada"
+                },
+                "event_start": "2016-02-22",
+                "event_end": "2016-02-26",
+                "cfp_start": "2015-08-21",
+                "cfp_end": "2015-09-20",
+                "session_feed": "https://confoo.ca/2016/sessions.json",
+                "speaker_feed": "https://confoo.ca/2016/speakers.json",
+                "organizers": [
+                    {
+                        "name": "Yann Larrivée",
+                        "twitter": "@ylarrivee"
+                    },
+                    {
+                        "name": "Anna Filina",
+                        "twitter": "@afilina"
+                    }
+                ]
+            }
+        ],
+        "website": "https://confoo.ca",
+        "twitter": "@confooca"
+    }
+]
