@@ -548,5 +548,47 @@
         ],
         "website": "http://www.opencode.ca/",
         "twitter": "@opencodeqc"
+    },
+    {
+        "name": "Frederick WebTech",
+        "tags": ["php", "javascript", "python", "ruby", "design", "technology"],
+        "first_meetup": "2009-06-17",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Frederick, MD, USA"
+            }
+        ],
+        "website": "http://www.meetup.com/FredWebTech/",
+        "twitter": "@fredwebtech",
+        "calendar_feed": "http://www.meetup.com/FredWebTech/events/rss/"
+    },
+    {
+        "name": "Baltimore PHP",
+        "tags": ["php"],
+        "first_meetup": "2007-02-22",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Baltimore, MD, USA"
+            }
+        ],
+        "website": "http://www.meetup.com/baltimorephp/",
+        "twitter": "@baltimorephp",
+        "calendar_feed": "http://www.meetup.com/FredWebTech/events/rss/"
+    },
+    {
+        "name": "DCPHP",
+        "tags": ["php"],
+        "first_meetup": "2010-05-21",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Washington, D.C., USA"
+            }
+        ],
+        "website": "http://www.meetup.com/DC-PHP/",
+        "twitter": "@dcphp",
+        "calendar_feed": "http://www.meetup.com/DC-PHP/events/rss/"
     }
 ]
