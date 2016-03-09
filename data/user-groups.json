@@ -50,6 +50,34 @@
         "calendar_feed": "http://www.meetup.com/js-montreal/events/rss/"
     },
     {
+        "name": "Montreal.rb",
+        "tags": ["ruby"],
+        "first_meetup": "",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Montreal, QC, Canada"
+            }
+        ],
+        "website": "http://www.montrealrb.com/",
+        "twitter": "@montrealrb",
+        "calendar_feed": ""
+    },
+    {
+        "name": "Montréal-Python",
+        "tags": ["python"],
+        "first_meetup": "2008-02-07",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Montreal, QC, Canada"
+            }
+        ],
+        "website": "http://montrealpython.org/",
+        "twitter": "@mtlpy",
+        "calendar_feed": "https://calendar.google.com/calendar/ical/gi8ik3ig0td2p4gpmspda7dnbc%40group.calendar.google.com/public/basic.ics"
+    },
+    {
         "name": "PHP Hampshire",
         "tags": ["php"],
         "first_meetup": "2011-06-04",
