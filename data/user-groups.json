@@ -479,5 +479,19 @@
         "website": "http://www.meetup.com/trianglephp/",
         "twitter": "@trianglephp",
         "calendar_feed": "http://www.meetup.com/trianglephp/events/rss/"
+    },
+	{
+        "name": "PHPAmersfoort",
+        "tags": ["php"],
+        "first_meetup": "2013-08-13",
+        "locations": [
+            {
+                "name": "Amersfoort, The Netherlands",
+                "first_meetup": "2013-08-13"
+            }
+        ],
+        "website": "http://www.phpamersfoort.nl/",
+        "twitter": "@PHPAmersfoort",
+        "calendar_feed": "http://www.meetup.com/PHPAmersfoort/events/rss/"
     }
 ]
