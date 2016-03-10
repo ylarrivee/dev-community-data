@@ -213,9 +213,9 @@
     {
         "key": "phpbnl",
         "name": "PHPBenelux",
-        "tags": ["php", "phpbnl", "phpbnl10", "phpbnl11", "phpbnl12", "phpbnl13", "phpbnl14", "phpbnl15", "phpbnl16"],
+        "tags": ["php"],
         "first_event": "2010-01-29",
-        "last_event": "2016-01-30",
+        "last_event": "",
         "speaker_kit": {
             "ticket_included": true,
             "hotel_included": true,
