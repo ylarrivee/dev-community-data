@@ -383,7 +383,16 @@
     {
         "name": "PHPUG Münster(land)",
         "tags": ["php"],
-        "first_meetup": "2015-11-01"
+        "first_meetup": "2015-11-01",
+        "locations": [
+            {
+                "name": "Münster, Germany",
+                "first_meetup": "2015-11-01"
+            }
+        ],
+        "website": "http://phpug.ms/",
+        "twitter": "@phpugms",
+        "calendar_feed": "http://www.meetup.com/phpugms/events/rss/"
     },
     {
         "name": "PHP Montevideo",
