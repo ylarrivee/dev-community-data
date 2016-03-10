@@ -214,7 +214,7 @@
         "key": "phpbnl",
         "name": "PHPBenelux",
         "tags": ["php"],
-        "first_event": "2016-01-29",
+        "first_event": "2010-01-29",
         "last_event": "",
         "speaker_kit": {
             "ticket_included": true,
@@ -223,7 +223,7 @@
         },
         "events": [
             {
-                "name": "PHPBenelux 2016",
+                "name": "PHPBenelux Conference 2016",
                 "location": {
                     "name": "Antwerp, Belgium"
                 },
@@ -237,6 +237,279 @@
                     {
                         "name": "Michelangelo van Dam",
                         "twitter": "@DragonBe"
+                    },
+                    {
+                        "name": "Thijs Feryn",
+                        "twitter": "@ThijsFeryn"
+                    },
+                    {
+                        "name": "Paul Borgermans",
+                        "twitter": "@paulborgermans"
+                    },
+                    {
+                        "name": "Martin De Keijzer",
+                        "twitter": "@Martin1982"
+                    },
+                    {
+                        "name": "Leon Luijkx"
+                    },
+                    {
+                        "name": "Kana Yeh",
+                        "twitter": "@MissYeh"
+                    },
+                    {
+                        "name": "Stijn Janssen",
+                        "twitter": "@stijnj"
+                    },
+                    {
+                        "name": "Richard Tuin",
+                        "twitter": "@Richard_Tuin"
+                    }
+                ]
+            },
+            {
+                "name": "PHPBenelux Conference 2015",
+                "location": {
+                    "name": "Antwerp, Belgium"
+                },
+                "event_start": "2015-01-23",
+                "event_end": "2015-01-24",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Michelangelo van Dam",
+                        "twitter": "@DragonBe"
+                    },
+                    {
+                        "name": "Thijs Feryn",
+                        "twitter": "@ThijsFeryn"
+                    },
+                    {
+                        "name": "Paul Borgermans",
+                        "twitter": "@paulborgermans"
+                    },
+                    {
+                        "name": "Martin De Keijzer",
+                        "twitter": "@Martin1982"
+                    },
+                    {
+                        "name": "Leon Luijkx"
+                    },
+                    {
+                        "name": "Kana Yeh",
+                        "twitter": "@MissYeh"
+                    },
+                    {
+                        "name": "Richard Tuin",
+                        "twitter": "@Richard_Tuin"
+                    }
+                ]
+            },
+            {
+                "name": "PHPBenelux Conference 2014",
+                "location": {
+                    "name": "Antwerp, Belgium"
+                },
+                "event_start": "2014-01-24",
+                "event_end": "2014-01-25",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Michelangelo van Dam",
+                        "twitter": "@DragonBe"
+                    },
+                    {
+                        "name": "Thijs Feryn",
+                        "twitter": "@ThijsFeryn"
+                    },
+                    {
+                        "name": "Paul Borgermans",
+                        "twitter": "@paulborgermans"
+                    },
+                    {
+                        "name": "Martin De Keijzer",
+                        "twitter": "@Martin1982"
+                    },
+                    {
+                        "name": "Leon Luijkx"
+                    },
+                    {
+                        "name": "Jeroen van Dijk",
+                        "twitter": "@jrvandijk"
+                    },
+                    {
+                        "name": "Richard Tuin",
+                        "twitter": "@Richard_Tuin"
+                    }
+                ]
+            },
+            {
+                "name": "PHPBenelux Conference 2013",
+                "location": {
+                    "name": "Antwerp, Belgium"
+                },
+                "event_start": "2013-01-25",
+                "event_end": "2013-01-26",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Michelangelo van Dam",
+                        "twitter": "@DragonBe"
+                    },
+                    {
+                        "name": "Thijs Feryn",
+                        "twitter": "@ThijsFeryn"
+                    },
+                    {
+                        "name": "Paul Borgermans",
+                        "twitter": "@paulborgermans"
+                    },
+                    {
+                        "name": "Martin De Keijzer",
+                        "twitter": "@Martin1982"
+                    },
+                    {
+                        "name": "Leon Luijkx"
+                    },
+                    {
+                        "name": "Jeroen van Dijk",
+                        "twitter": "@jrvandijk"
+                    }
+                ]
+            },
+            {
+                "name": "PHPBenelux Conference 2012",
+                "location": {
+                    "name": "Antwerp, Belgium"
+                },
+                "event_start": "2012-01-27",
+                "event_end": "2012-01-28",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Michelangelo van Dam",
+                        "twitter": "@DragonBe"
+                    },
+                    {
+                        "name": "Thijs Feryn",
+                        "twitter": "@ThijsFeryn"
+                    },
+                    {
+                        "name": "Paul Borgermans",
+                        "twitter": "@paulborgermans"
+                    },
+                    {
+                        "name": "Martin De Keijzer",
+                        "twitter": "@Martin1982"
+                    },
+                    {
+                        "name": "Leon Luijkx"
+                    },
+                    {
+                        "name": "Jeroen van Dijk",
+                        "twitter": "@jrvandijk"
+                    }
+                ]
+            },
+            {
+                "name": "PHPBenelux Conference 2011",
+                "location": {
+                    "name": "Antwerp, Belgium"
+                },
+                "event_start": "2011-01-28",
+                "event_end": "2011-01-29",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Michelangelo van Dam",
+                        "twitter": "@DragonBe"
+                    },
+                    {
+                        "name": "Thijs Feryn",
+                        "twitter": "@ThijsFeryn"
+                    },
+                    {
+                        "name": "Paul Borgermans",
+                        "twitter": "@paulborgermans"
+                    },
+                    {
+                        "name": "Martin De Keijzer",
+                        "twitter": "@Martin1982"
+                    },
+                    {
+                        "name": "Leon Luijkx"
+                    },
+                    {
+                        "name": "Stefan Koopmanschap",
+                        "twitter": "@skoop"
+                    },
+                    {
+                        "name": "Kana Yeh",
+                        "twitter": "@MissYeh"
+                    }
+                ]
+            },
+            {
+                "name": "PHPBenelux Conference 2010",
+                "location": {
+                    "name": "Antwerp, Belgium"
+                },
+                "event_start": "2010-01-29",
+                "event_end": "2010-01-30",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Michelangelo van Dam",
+                        "twitter": "@DragonBe"
+                    },
+                    {
+                        "name": "Thijs Feryn",
+                        "twitter": "@ThijsFeryn"
+                    },
+                    {
+                        "name": "Paul Borgermans",
+                        "twitter": "@paulborgermans"
+                    },
+                    {
+                        "name": "Rein Velt",
+                        "twitter": "@velt"
+                    },
+                    {
+                        "name": "Leon Luijkx"
+                    },
+                    {
+                        "name": "Stefan Koopmanschap",
+                        "twitter": "@skoop"
+                    },
+                    {
+                        "name": "Kana Yeh",
+                        "twitter": "@MissYeh"
+                    },
+                    {
+                        "name": "Patrick Allaert",
+                        "twitter": "@patrick_allaert"
+                    },
+                    {
+                        "name": "Felix De Vliegher",
+                        "twitter": "@felixdv"
                     }
                 ]
             }
