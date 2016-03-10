@@ -6,7 +6,12 @@
         "last_meetup": "",
         "locations": [
             {
-                "name": "São Paulo, SP, Brazil"
+                "name": "Campinas, SP, Brazil",
+                "first_meetup": "2014-06-02"
+            },
+            {
+                "name": "São Paulo, SP, Brazil",
+                "first_meetup": "2008-11-23"
             }
         ],
         "website": "http://phpsp.org.br/",
