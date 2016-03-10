@@ -563,6 +563,17 @@
         "twitter": "@opencodeqc"
     },
     {
+        "name": "HackerSpace",
+        "tags": ["infosec"],
+        "locations": [
+            {
+                "name": "Quebec, QC, Canada"
+            }
+        ],
+        "website": "http://www.hackfest.ca/hackfest-community/hackerspace",
+        "twitter": "@hackfest_ca"
+    },
+    {
         "name": "Frederick WebTech",
         "tags": ["php", "javascript", "python", "ruby", "design", "technology"],
         "first_meetup": "2009-06-17",
