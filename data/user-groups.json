@@ -1,5 +1,27 @@
 [
     {
+        "name": "São Paulo Cassandra Users",
+        "tags": ["cassandra"],
+        "first_meetup": "2014-10-09",
+        "locations": [
+            {
+                "name": "São Paulo, SP, Brazil"
+            }
+        ],
+        "website": "http://www.meetup.com/Sao-Paulo-Cassandra-Users/"
+    },
+    {
+        "name": "Graph Database - São Paulo",
+        "tags": ["neo4j", "graph"],
+        "first_meetup": "2012-08-15",
+        "locations": [
+            {
+                "name": "São Paulo, SP, Brazil"
+            }
+        ],
+        "website": "http://www.meetup.com/graphdb-sp/"
+    },
+    {
         "name": "PHPSP",
         "tags": ["php"],
         "first_meetup": "2008-11-23",
