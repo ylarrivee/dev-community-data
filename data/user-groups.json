@@ -654,5 +654,34 @@
         "website": "http://www.meetup.com/DC-PHP/",
         "twitter": "@dcphp",
         "calendar_feed": "http://www.meetup.com/DC-PHP/events/rss/"
+    },
+    {
+        "name": "PHP.FRL",
+        "tags": ["php"],
+        "first_meetup": "2014-09-23",
+        "last_meetup": "",
+        "locations": [
+            {
+	            "name": "Leeuwarden, Netherlands"
+            },
+            {
+                "name": "Heerenveen, Netherlands"
+            },
+            {
+                "name": "Drachten, Netherlands"
+            },
+            {
+                "name": "Surhuisterveen, Netherlands"
+            },
+            {
+                "name": "Steenwijk, Netherlands"
+            },
+            {
+                "name": "Surhuisterveen, Netherlands"
+            }
+        ],
+        "website": "http://www.php.frl/",
+        "twitter": "@phpfrl",
+        "calendar_feed": "http://www.meetup.com/PHP-FRL/events/rss/"
     }
 ]
