@@ -683,5 +683,19 @@
         "website": "http://www.php.frl/",
         "twitter": "@phpfrl",
         "calendar_feed": "http://www.meetup.com/PHP-FRL/events/rss/"
+    },
+    {
+        "name": "PHPOxford",
+        "tags": ["php"],
+        "first_meetup": "2015-04-22",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Oxford, UK"
+            }
+        ],
+        "website": "http://phpoxford.uk",
+        "twitter": "@phpoxford",
+        "calendar_feed": "https://www.meetup.com/PHP-Oxford/events/rss/"
     }
 ]
