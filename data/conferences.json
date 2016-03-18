@@ -105,8 +105,8 @@
         "twitter": "@confooca"
     },
     {
-        "key": "Northeast PHP",
-        "name": "Hackfest",
+        "key": "nephp",
+        "name": "Northeast PHP",
         "tags": ["php", "ux"],
         "first_event": "2016",
         "last_event": "",
