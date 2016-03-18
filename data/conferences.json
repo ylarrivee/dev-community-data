@@ -2,7 +2,7 @@
     {
         "key": "confoo",
         "name": "ConFoo",
-        "tags": ["php", "dotnet", "accessibility", "databases", "devops", "html", "css", "iot", "java", "js", "ecommerce", "nodejs", "mobile", "ruby", "performance", "quality", "security"],
+        "tags": ["php", "dotnet", "accessibility", "database", "devops", "html", "css", "iot", "java", "javascript", "ecommerce", "nodejs", "mobile", "ruby", "performance", "security"],
         "first_event": "2010-03-08",
         "last_event": "",
         "speaker_kit": {
@@ -170,7 +170,7 @@
     {
             "key": "wecamp",
             "name": "WeCamp",
-            "tags": ["php", "development process"],
+            "tags": ["php"],
             "first_event": "2014-08-25",
             "last_event": "",
             "events": [
@@ -752,7 +752,7 @@
     {
         "key": "cakefest",
         "name": "CakeFest",
-        "tags": ["php", "cakephp"],
+        "tags": ["php"],
         "first_event": "2016-05-26",
         "last_event": "",
         "speaker_kit": {
@@ -1216,7 +1216,7 @@
     {
         "key": "symfonycon",
         "name": "SymfonyCon",
-        "tags": ["php", "symfony", "twig", "doctrine"],
+        "tags": ["php"],
         "first_event": "2013-12-10",
         "last_event": "",
         "speaker_kit": {
@@ -1286,7 +1286,7 @@
     {
         "key": "waq",
         "name": "Web à Québec",
-        "tags": ["web", "ux", "ui", "marketing"],
+        "tags": ["ux", "marketing"],
         "first_event": "",
         "last_event": "",
         "events": [
@@ -1337,7 +1337,7 @@
     {
         "key": "hackfest",
         "name": "Hackfest",
-        "tags": ["infosec", "security"],
+        "tags": ["security"],
         "first_event": "2008",
         "last_event": "",
         "events": [
