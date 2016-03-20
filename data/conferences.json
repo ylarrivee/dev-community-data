@@ -118,8 +118,8 @@
                 },
                 "event_start": "2016-06-03",
                 "event_end": "2016-06-04",
-                "cfp_start": "2016-03-01",
-                "cfp_end": "2016-03-31"
+                "cfp_start": "2016-03-15",
+                "cfp_end": "2016-04-08"
             }
         ],
         "website": "http://www.rubynation.org/",
@@ -139,8 +139,8 @@
                 },
                 "event_start": "2016-07-11",
                 "event_end": "2016-07-17",
-                "cfp_start": "2016-03-15",
-                "cfp_end": "2016-04-08"
+                "cfp_start": "2016-03-04",
+                "cfp_end": "2016-03-25"
             }
         ],
         "website": "http://scipy2016.scipy.org/",
