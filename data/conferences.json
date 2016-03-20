@@ -105,10 +105,31 @@
         "twitter": "@confooca"
     },
     {
+        "key": "rubynation",
+        "name": "RubyNation",
+        "tags": ["ruby"],
+        "first_event": "2016-06-03",
+        "last_event": "",
+        "events": [
+            {
+                "name": "RubyNation 2016",
+                "location": {
+                    "name": "Washington, DC, United States"
+                },
+                "event_start": "2016-06-03",
+                "event_end": "2016-06-04",
+                "cfp_start": "2016-03-01",
+                "cfp_end": "2016-03-31"
+            }
+        ],
+        "website": "http://www.rubynation.org/",
+        "twitter": ""
+    },
+    {
         "key": "scipy",
         "name": "SciPy",
         "tags": ["python"],
-        "first_event": "2016",
+        "first_event": "2016-07-11",
         "last_event": "",
         "events": [
             {
@@ -118,8 +139,8 @@
                 },
                 "event_start": "2016-07-11",
                 "event_end": "2016-07-17",
-                "cfp_start": "2016-03-04",
-                "cfp_end": "2016-03-25"
+                "cfp_start": "2016-03-15",
+                "cfp_end": "2016-04-08"
             }
         ],
         "website": "http://scipy2016.scipy.org/",
@@ -129,7 +150,7 @@
         "key": "bgphp",
         "name": "Bulgaria PHP",
         "tags": ["php"],
-        "first_event": "2016",
+        "first_event": "2016-10-07",
         "last_event": "",
         "events": [
             {
@@ -150,7 +171,7 @@
         "key": "nephp",
         "name": "Northeast PHP",
         "tags": ["php", "ux"],
-        "first_event": "2016",
+        "first_event": "2016-08-04",
         "last_event": "",
         "events": [
             {
@@ -171,7 +192,7 @@
         "key": "nodeconf",
         "name": "NodeConf",
         "tags": ["nodejs"],
-        "first_event": "2016",
+        "first_event": "2016-05-11",
         "last_event": "",
         "events": [
             {
@@ -192,7 +213,7 @@
         "key": "leanagilescot",
         "name": "Lean Agile Scotland",
         "tags": ["agile"],
-        "first_event": "2016",
+        "first_event": "2016-10-05",
         "last_event": "",
         "events": [
             {
@@ -1329,7 +1350,7 @@
         "key": "waq",
         "name": "Web à Québec",
         "tags": ["ux", "marketing"],
-        "first_event": "",
+        "first_event": "2012-02-22",
         "last_event": "",
         "events": [
             {
