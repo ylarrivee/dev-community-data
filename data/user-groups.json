@@ -1,5 +1,20 @@
 [
     {
+        "key": "chicagoruby",
+        "name": "ChicagoRuby",
+        "tags": ["ruby", "ruby on rails"],
+        "first_meetup": "",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Chicago, IL, USA"
+            }
+        ],
+        "website": "http://chicagoruby.org",
+        "twitter": "@chicagoruby",
+        "calendar_feed": ""
+    },
+    {
         "key": "saopaulocassandra",
         "name": "São Paulo Cassandra Users",
         "tags": ["cassandra"],
