@@ -17,8 +17,8 @@ Tip: add your entry to the top of file to avoid merge conflicts.
     "key": "example",
     "name": "Full user group name",
     "tags": ["php", "js"],
-    "first_meetup": "yyyy-mm-dd",
-    "last_meetup": "yyyy-mm-dd", 
+    "first_event": "yyyy-mm-dd",
+    "last_event": "yyyy-mm-dd", 
     "locations": [
         {
             "name": "City, State (if applies), Country",
