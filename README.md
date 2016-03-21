@@ -28,7 +28,7 @@ Tip: add your entry to the top of file to avoid merge conflicts.
     ],
     "website": "http://example.com",
     "twitter": "@twitter_handle",
-    "calendar_feed": "http://example.com/feed.rss"
+    "calendar_feed": "http://example.com/feed.ical"
 }
 ```
 
