@@ -204,7 +204,13 @@
         "key": "atlantaphp",
         "name": "Atlanta PHP",
         "tags": ["php"],
-        "first_event": "2004-03-01", 
+        "first_event": "2004-03-01",
+        "locations": [
+            {
+        	"name": "Atlanta, GA"
+            }
+        ],
+        "twitter": "@atlantaphp",
         "website": "http://atlantaphp.org"
     },
     {
