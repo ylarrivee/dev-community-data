@@ -1,5 +1,71 @@
 [
     {
+        "key": "WindyCityThings",
+        "name": "WindyCityThings",
+        "tags": ["iot", "robotics", "arduino", "raspberry pi", "prototyping", "manufacturing", "nodejs", "ecommerce", "performance", "security"],
+        "first_event": "2016-06-23",
+        "last_event": "",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": true,
+            "travel_included": false
+        },
+        "events": [
+            {
+                "name": "WindyCityThings 2016",
+                "location": {
+                    "name": "Chicago, IL, USA"
+                },
+                "event_start": "2016-06-23",
+                "event_end": "2016-06-24",
+                "session_feed": "",
+                "speaker_feed": "",
+                "hashtag": "#wct",
+                "organizers": [
+                    {
+                        "name": "WisdomGroup",
+                        "twitter": "@wisdomgroup"
+                    }
+                ]
+            }
+        ],
+        "website": "https://windycitythings.com",
+        "twitter": "@windycitythings"
+    },
+    {
+        "key": "WindyCityRails",
+        "name": "WindyCityRails",
+        "tags": ["ruby", "rails", "database", "devops", "html", "css", "javascript", "ecommerce", "performance", "security"],
+        "first_event": "2008-09-20",
+        "last_event": "",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": true,
+            "travel_included": false
+        },
+        "events": [
+            {
+                "name": "WindyCityRails 2016",
+                "location": {
+                    "name": "Chicago, IL, USA"
+                },
+                "event_start": "2016-09-15",
+                "event_end": "2016-09-16",
+                "session_feed": "",
+                "speaker_feed": "",
+                "hashtag": "#wcr16",
+                "organizers": [
+                    {
+                        "name": "WisdomGroup",
+                        "twitter": "@wisdomgroup"
+                    }
+                ]
+            }
+        ],
+        "website": "https://windycityrails.com",
+        "twitter": "@windycityrails"
+    },
+    {
         "key": "confoo",
         "name": "ConFoo",
         "tags": ["php", "dotnet", "accessibility", "database", "devops", "html", "css", "iot", "java", "javascript", "ecommerce", "nodejs", "mobile", "ruby", "performance", "security"],
