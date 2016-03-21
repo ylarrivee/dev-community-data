@@ -97,7 +97,7 @@
         ],
         "website": "http://www.phpquebec.org/",
         "twitter": "@phpquebec",
-        "calendar_feed": "http://www.meetup.com/PHPQuebec/events/rss/"
+        "calendar_feed": "http://www.meetup.com/PHPQuebec/events/ical/"
     },
     {
         "key": "jsmontreal",
@@ -112,7 +112,7 @@
         ],
         "website": "http://js-montreal.org/",
         "twitter": "@jsmontreal",
-        "calendar_feed": "http://www.meetup.com/js-montreal/events/rss/"
+        "calendar_feed": "http://www.meetup.com/js-montreal/events/ical/"
     },
     {
         "key": "montrealrb",
@@ -180,7 +180,7 @@
         ],
         "website": "http://symfony.org.uk/",
         "twitter": "@symfonyuk",
-        "calendar_feed": "http://www.meetup.com/symfony/events/rss/"
+        "calendar_feed": "http://www.meetup.com/symfony/events/ical/"
     },
     {
         "key": "phpwm",
@@ -349,7 +349,7 @@
         ],
         "website": "http://php.amsterdam",
         "twitter": "@amsterdamphp",
-        "calendar_feed": "http://www.meetup.com/amsterdamphp/events/rss/"
+        "calendar_feed": "http://www.meetup.com/amsterdamphp/events/ical/"
     },
     {
         "key": "phplimbe",
@@ -365,7 +365,7 @@
         ],
         "website": "http://www.meetup.com/PHP-Limburg-BE",
         "twitter": "@phplimbe",
-        "calendar_feed": "http://www.meetup.com/PHP-Limburg-BE/events/rss/"
+        "calendar_feed": "http://www.meetup.com/PHP-Limburg-BE/events/ical/"
     },
     {
         "key": "nijmegenphp",
@@ -464,7 +464,7 @@
         ],
         "website": "http://gtaphp.org",
         "twitter": "@gtaphp",
-        "calendar_feed": "http://www.meetup.com/GTA-PHP-User-Group-Toronto/events/rss/"
+        "calendar_feed": "http://www.meetup.com/GTA-PHP-User-Group-Toronto/events/ical/"
     },
     {
         "key": "phpugms",
@@ -479,7 +479,7 @@
         ],
         "website": "http://phpug.ms/",
         "twitter": "@phpugms",
-        "calendar_feed": "http://www.meetup.com/phpugms/events/rss/"
+        "calendar_feed": "http://www.meetup.com/phpugms/events/ical/"
     },
     {
         "key": "phpmontevideo",
@@ -522,7 +522,7 @@
         ],
         "website": "http://soflophp.org",
         "twitter": "@soflophp",
-        "calendar_feed": "http://www.meetup.com/South-Florida-PHP-Users-Group/events/rss/"
+        "calendar_feed": "http://www.meetup.com/South-Florida-PHP-Users-Group/events/ical/"
     },
     {
         "key": "seaphp",
@@ -537,7 +537,7 @@
         ],
         "website": "http://www.meetup.com/seaphp/",
         "twitter": "@seaphp",
-        "calendar_feed": "http://www.meetup.com/seaphp/events/rss/"
+        "calendar_feed": "http://www.meetup.com/seaphp/events/ical/"
     },
     {
         "key": "phpsevilla",
@@ -606,7 +606,7 @@
         ],
         "website": "http://www.meetup.com/trianglephp/",
         "twitter": "@trianglephp",
-        "calendar_feed": "http://www.meetup.com/trianglephp/events/rss/"
+        "calendar_feed": "http://www.meetup.com/trianglephp/events/ical/"
     },
 	{
         "key": "phpamersfoort",
@@ -621,7 +621,7 @@
         ],
         "website": "http://www.phpamersfoort.nl/",
         "twitter": "@PHPAmersfoort",
-        "calendar_feed": "http://www.meetup.com/PHPAmersfoort/events/rss/"
+        "calendar_feed": "http://www.meetup.com/PHPAmersfoort/events/ical/"
 	},
     {
         "key": "phpvegas",
@@ -638,7 +638,7 @@
         ],
         "website": "http://phpvegas.com/",
         "twitter": "@PHPVegas",
-        "calendar_feed": "http://www.meetup.com/PHP-Vegas/events/rss/"
+        "calendar_feed": "http://www.meetup.com/PHP-Vegas/events/ical/"
     },
     {
         "key": "phpleuven",
@@ -647,7 +647,7 @@
         "first_event": "2015-02-05",
         "website": "meetup.com/PHP-Leuven-Web-Innovation-Group/",
         "twitter": "@phpleuven",
-        "calendar_feed": "http://www.meetup.com/PHP-Leuven-Web-Innovation-Group/events/rss/"
+        "calendar_feed": "http://www.meetup.com/PHP-Leuven-Web-Innovation-Group/events/ical/"
     },
     {
         "key": "opencode",
@@ -667,6 +667,8 @@
         "key": "hackerspace",
         "name": "HackerSpace",
         "tags": ["infosec"],
+        "first_event": "2016-02-25",
+        "last_event": "",
         "locations": [
             {
                 "name": "Quebec, QC, Canada"
@@ -688,7 +690,7 @@
         ],
         "website": "http://www.meetup.com/FredWebTech/",
         "twitter": "@fredwebtech",
-        "calendar_feed": "http://www.meetup.com/FredWebTech/events/rss/"
+        "calendar_feed": "http://www.meetup.com/FredWebTech/events/ical/"
     },
     {
         "key": "baltimore",
@@ -703,7 +705,7 @@
         ],
         "website": "http://www.meetup.com/baltimorephp/",
         "twitter": "@baltimorephp",
-        "calendar_feed": "http://www.meetup.com/FredWebTech/events/rss/"
+        "calendar_feed": "http://www.meetup.com/FredWebTech/events/ical/"
     },
     {
         "key": "dcphp",
@@ -718,7 +720,7 @@
         ],
         "website": "http://www.meetup.com/DC-PHP/",
         "twitter": "@dcphp",
-        "calendar_feed": "http://www.meetup.com/DC-PHP/events/rss/"
+        "calendar_feed": "http://www.meetup.com/DC-PHP/events/ical/"
     },
     {
         "key": "phpfrl",
@@ -748,7 +750,7 @@
         ],
         "website": "http://www.php.frl/",
         "twitter": "@phpfrl",
-        "calendar_feed": "http://www.meetup.com/PHP-FRL/events/rss/"
+        "calendar_feed": "http://www.meetup.com/PHP-FRL/events/ical/"
     },
     {
         "key": "phpoxford",
@@ -763,6 +765,6 @@
         ],
         "website": "http://phpoxford.uk",
         "twitter": "@phpoxford",
-        "calendar_feed": "https://www.meetup.com/PHP-Oxford/events/rss/"
+        "calendar_feed": "https://www.meetup.com/PHP-Oxford/events/ical/"
     }
 ]
