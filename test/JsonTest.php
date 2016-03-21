@@ -15,6 +15,15 @@ class JsonTest extends PHPUnit_Framework_TestCase
 
         $this->assertEquals(JSON_ERROR_NONE, json_last_error());
         $this->assertGreaterThan(0, count($data));
+
+        // Check data integrity.
+        $keys = [];
+        foreach ($data as $entry) {
+            $this->assertArrayHasKey('key', $entry);
+            $this->assertArrayHasKey('name', $entry);
+            $this->assertNotContains($entry['key'], $keys, 'Key must be unique within the file.');
+            $keys[] = $entry['key'];
+        }
     }
 
     public function jsonFileProvider()

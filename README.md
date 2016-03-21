@@ -14,6 +14,7 @@ Tip: add your entry to the top of file to avoid merge conflicts.
 
 ```json
 {
+    "key": "example",
     "name": "Full user group name",
     "tags": ["php", "js"],
     "first_meetup": "yyyy-mm-dd",
