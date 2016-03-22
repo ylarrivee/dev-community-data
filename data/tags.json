@@ -1,0 +1,57 @@
+{
+    "accessibility": {},
+    "agile": {},
+    "arduino": {},
+    "databases": {
+        "sql": {
+            "cassandra": {},
+            "mysql": {},
+            "postgres": {}
+        },
+        "graph": {
+            "neo4j": {}
+        }
+    },
+    "design": {},
+    "devops": {},
+    "ecommerce": {},
+    "iot": {},
+    "languages": {
+        "css": {},
+        "dotnet": {},
+        "go": {},
+        "html": {},
+        "java": {},
+        "javascript": {
+            "angular": {},
+            "jquery": {},
+            "react": {}
+        },
+        "nodejs": {},
+        "php": {
+            "cakephp": {},
+            "doctrine": {},
+            "laravel": {},
+            "symfony": {},
+            "zend framework": {}
+        },
+        "python": {
+            "django": {},
+            "flask": {},
+            "pyramid": {}
+        },
+        "ruby": {
+            "ruby on rails": {},
+            "sinatra": {}
+        }
+    },
+    "manufacturing": {},
+    "marketing": {},
+    "mobile": {},
+    "performance": {},
+    "prototyping": {},
+    "raspberry pi": {},
+    "robotics": {},
+    "security": {},
+    "ux": {}
+}

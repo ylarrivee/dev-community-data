@@ -1,3 +1,4 @@
+
 [
     {
         "key": "WindyCityThings",
@@ -37,7 +38,7 @@
     {
         "key": "WindyCityRails",
         "name": "WindyCityRails",
-        "tags": ["ruby", "rails", "database", "devops", "html", "css", "javascript", "ecommerce", "performance", "security"],
+        "tags": ["ruby", "ruby on rails", "databases", "devops", "html", "css", "javascript", "ecommerce", "performance", "security"],
         "first_event": "2008-09-20",
         "last_event": "",
         "speaker_kit": {
@@ -72,7 +73,7 @@
     {
         "key": "confoo",
         "name": "ConFoo",
-        "tags": ["php", "dotnet", "accessibility", "database", "devops", "html", "css", "iot", "java", "javascript", "ecommerce", "nodejs", "mobile", "ruby", "performance", "security"],
+        "tags": ["php", "dotnet", "accessibility", "databases", "devops", "html", "css", "iot", "java", "javascript", "ecommerce", "nodejs", "mobile", "ruby", "performance", "security"],
         "first_event": "2010-03-08",
         "last_event": "",
         "speaker_kit": {

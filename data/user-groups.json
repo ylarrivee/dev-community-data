@@ -1,3 +1,4 @@
+
 [
     {
         "key": "chicagoruby",
@@ -45,7 +46,7 @@
         "first_event": "2008-11-23",
         "last_event": "",
         "locations": [
-	    {
+        {
                 "name": "Fernandópolis, SP, Brazil",
                 "first_event": "2016-01-13"
             },
@@ -102,7 +103,7 @@
     {
         "key": "jsmontreal",
         "name": "js-montreal",
-        "tags": ["js"],
+        "tags": ["javascript"],
         "first_event": "2010-01-21",
         "last_event": "",
         "locations": [
@@ -207,7 +208,7 @@
         "first_event": "2004-03-01",
         "locations": [
             {
-        	"name": "Atlanta, GA"
+            "name": "Atlanta, GA"
             }
         ],
         "twitter": "@atlantaphp",
@@ -614,7 +615,7 @@
         "twitter": "@trianglephp",
         "calendar_feed": "http://www.meetup.com/trianglephp/events/ical/"
     },
-	{
+    {
         "key": "phpamersfoort",
         "name": "PHPAmersfoort",
         "tags": ["php"],
@@ -628,7 +629,7 @@
         "website": "http://www.phpamersfoort.nl/",
         "twitter": "@PHPAmersfoort",
         "calendar_feed": "http://www.meetup.com/PHPAmersfoort/events/ical/"
-	},
+    },
     {
         "key": "phpvegas",
         "name": "PHP Vegas",
@@ -736,7 +737,7 @@
         "last_event": "",
         "locations": [
             {
-	            "name": "Leeuwarden, Netherlands"
+                "name": "Leeuwarden, Netherlands"
             },
             {
                 "name": "Heerenveen, Netherlands"
@@ -774,18 +775,18 @@
         "calendar_feed": "https://www.meetup.com/PHP-Oxford/events/ical/"
     },
     {
-    	"key": "upstatephp",
-    	"name": "UpstatePHP",
-    	"tags": ["php", "javascript", "ruby", "go"],
-    	"first_event": "2014-03-27",
-    	"last_event": "",
-    	"locations": [
-    	    {
-    	    	"name": "Greenville, SC, USA"
-    	    }
-    	],
-    	"website": "http://upstatephp.com",
-    	"twitter": "@upstatephp",
-    	"calendar_feed": ""
+        "key": "upstatephp",
+        "name": "UpstatePHP",
+        "tags": ["php", "javascript", "ruby", "go"],
+        "first_event": "2014-03-27",
+        "last_event": "",
+        "locations": [
+            {
+                "name": "Greenville, SC, USA"
+            }
+        ],
+        "website": "http://upstatephp.com",
+        "twitter": "@upstatephp",
+        "calendar_feed": ""
     }
 ]
