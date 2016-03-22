@@ -38,7 +38,7 @@ class JsonTest extends PHPUnit_Framework_TestCase
             $this->assertArrayHasKey('name', $entry, 'Entry '.$entry['key']);
             $this->assertArrayHasKey('first_event', $entry, 'Entry '.$entry['key']);
             $this->assertNotContains($entry['key'], $keys, 'Key must be unique within the file.');
-            $this->assertValidTags($entry['tags'], $validTags);
+            $this->assertValidTags($entry['tags'], $validTags, $entry['key']);
             $keys[] = $entry['key'];
         }
     }
@@ -58,7 +58,7 @@ class JsonTest extends PHPUnit_Framework_TestCase
             $this->assertArrayHasKey('name', $entry, 'Entry '.$entry['key']);
             $this->assertArrayHasKey('first_event', $entry, 'Entry '.$entry['key']);
             $this->assertNotContains($entry['key'], $keys, 'Key must be unique within the file.');
-            $this->assertValidTags($entry['tags'], $validTags);
+            $this->assertValidTags($entry['tags'], $validTags, $entry['key']);
             $keys[] = $entry['key'];
         }
     }
@@ -80,10 +80,10 @@ class JsonTest extends PHPUnit_Framework_TestCase
         return $flatArray;
     }
 
-    public function assertValidTags($actualTags, $validTags)
+    public function assertValidTags($actualTags, $validTags, $eventKey)
     {
         foreach ($actualTags as $tag) {
-            $this->assertContains($tag, $validTags);
+            $this->assertContains($tag, $validTags, 'Invalid tag "'.$tag.'" in event "'.$eventKey.'". Either remove the tag from the event or add it to tags.json');
         }
     }
 
