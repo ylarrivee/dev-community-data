@@ -672,7 +672,7 @@
     {
         "key": "hackerspace",
         "name": "HackerSpace",
-        "tags": ["infosec"],
+        "tags": ["security"],
         "first_event": "2016-02-25",
         "last_event": "",
         "locations": [
@@ -686,7 +686,7 @@
     {
         "key": "fredwebtech",
         "name": "Frederick WebTech",
-        "tags": ["php", "javascript", "python", "ruby", "design", "technology"],
+        "tags": ["php", "javascript", "python", "ruby", "design"],
         "first_event": "2009-06-17",
         "last_event": "",
         "locations": [
