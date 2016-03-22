@@ -886,7 +886,7 @@
     {
         "key": "cakefest",
         "name": "CakeFest",
-        "tags": ["php"],
+        "tags": ["php", "cakephp"],
         "first_event": "2016-05-26",
         "last_event": "",
         "speaker_kit": {
@@ -1350,7 +1350,7 @@
     {
         "key": "symfonycon",
         "name": "SymfonyCon",
-        "tags": ["php"],
+        "tags": ["php", "symfony", "doctrine"],
         "first_event": "2013-12-10",
         "last_event": "",
         "speaker_kit": {
@@ -1420,7 +1420,7 @@
     {
         "key": "waq",
         "name": "Web à Québec",
-        "tags": ["ux", "marketing"],
+        "tags": ["css", "html", "ux", "marketing"],
         "first_event": "2012-02-22",
         "last_event": "",
         "events": [
