@@ -772,5 +772,20 @@
         "website": "http://phpoxford.uk",
         "twitter": "@phpoxford",
         "calendar_feed": "https://www.meetup.com/PHP-Oxford/events/ical/"
+    },
+    {
+    	"key": "upstatephp",
+    	"name": "UpstatePHP",
+    	"tags": ["php", "javascript", "ruby", "go"],
+    	"first_event": "2014-03-27",
+    	"last_event": "",
+    	"locations": [
+    	    {
+    	    	"name": "Greenville, SC, USA"
+    	    }
+    	],
+    	"website": "http://upstatephp.com",
+    	"twitter": "@upstatephp",
+    	"calendar_feed": ""
     }
 ]
