@@ -81,4 +81,4 @@ Tip: add your entry to the top of file to avoid merge conflicts.
 ## Applications
 
 Known applications that use this data:
- - [ConFoo Community](https://community.confoo.ca/) - Conference and user group search.
+ - [ConFoo Community](https://community.confoo.ca/) - Conference and user group search. Report issues on the [project page](https://github.com/afilina/confoo-community)
