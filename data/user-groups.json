@@ -788,5 +788,20 @@
         "website": "http://upstatephp.com",
         "twitter": "@upstatephp",
         "calendar_feed": ""
-    }
+    },
+    {
+        "key": "laravellexington",
+        "name": "Laravel Lexington",
+        "tags": ["php", "laravel"],
+        "first_event": "2016-04-16",
+        "last_event": "",
+        "locations": [
+            {
+                "name": "Lexington, KY, USA"
+            }
+        ],
+        "website": "http://laravel-lexington.github.io/",
+        "twitter": "@LaravelLex",
+        "calendar_feed": ""
+    }    
 ]
