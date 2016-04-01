@@ -1,6 +1,40 @@
 
 [
     {
+        "key": "sdphp",
+        "name": "San Diego PHP Usergroup",
+        "tags": ["php"],
+        "first_event": "2012-07-19",
+        "last_event": "", 
+        "locations": [
+            {
+                "name": "San Diegp, CA, USA",
+                "first_meetup": "2012-07-19",
+                "last_meetup": ""
+            }
+        ],
+        "website": "https://www.sdphp.org/",
+        "twitter": "@sdphp",
+        "calendar_feed": "http://www.meetup.com/SanDiegoPHP/events/rss/"
+    },
+    {
+        "key": "sdlug",
+        "name": "San Diego Laravel Usergroup",
+        "tags": ["php", "laravel"],
+        "first_event": "2015-04-01",
+        "last_event": "", 
+        "locations": [
+            {
+                "name": "San Diegp, CA, USA",
+                "first_meetup": "2015-04-01",
+                "last_meetup": ""
+            }
+        ],
+        "website": "https://www.sdlug.com/",
+        "twitter": "@sdlug",
+        "calendar_feed": "http://www.meetup.com/San-Diego-Laravel-Meetup/events/rss/"
+    },
+    {
         "key": "phpba",
         "name": "PHPBA",
         "tags": ["php"],
