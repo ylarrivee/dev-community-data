@@ -1,6 +1,23 @@
 
 [
     {
+        "key": "phpba",
+        "name": "PHPBA",
+        "tags": ["php"],
+        "first_event": "2009-07-28",
+        "last_event": "", 
+        "locations": [
+            {
+                "name": "Salvador, BA, Brazil",
+                "first_meetup": "2009-07-28",
+                "last_meetup": ""
+            }
+        ],
+        "website": "http://phpba.com.br/",
+        "twitter": "@phpba",
+        "calendar_feed": ""
+    },
+    {
         "key": "chicagoruby",
         "name": "ChicagoRuby",
         "tags": ["ruby", "ruby on rails"],
