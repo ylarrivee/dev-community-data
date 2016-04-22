@@ -1486,5 +1486,39 @@
         ],
         "website": "http://www.hackfest.ca",
         "twitter": "@hackfest_ca"
+    },
+    {
+        "key": "zendcon",
+        "name": "ZendCon",
+        "tags": ["php"],
+        "first_event": "2005-10-17",
+        "last_event": "",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": true,
+            "travel_included": true
+        },
+        "events": [
+            {
+                "name": "ZendCon 2016",
+                "location": {
+                    "name": "Las Vegas, Nevada"
+                },
+                "event_start": "2016-10-18",
+                "event_end": "2016-10-21",
+                "cfp_start": "2016-04-21",
+                "cfp_end": "2016-05-31",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Zend",
+                        "twitter": "@zend"
+                    }
+                ]
+            }
+        ],
+        "website": "http://zendcon.com",
+        "twitter": "@zendcon"
     }
 ]
