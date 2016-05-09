@@ -149,7 +149,7 @@
                 "hashtag": "#confoo"
             },
             {
-                "name": "ConFoo 2016",
+                "name": "ConFoo Montreal 2016",
                 "location": {
                     "name": "Montreal, QC, Canada"
                 },
@@ -159,6 +159,27 @@
                 "cfp_end": "2015-09-20",
                 "session_feed": "https://confoo.ca/2016/sessions.json",
                 "speaker_feed": "https://confoo.ca/2016/speakers.json",
+                "hashtag": "#confoo",
+                "organizers": [
+                    {
+                        "name": "Yann Larrivée",
+                        "twitter": "@ylarrivee"
+                    },
+                    {
+                        "name": "Anna Filina",
+                        "twitter": "@afilina"
+                    }
+                ]
+            },
+            {
+                "name": "ConFoo Vancouver 2016",
+                "location": {
+                    "name": "Vancouver, BC, Canada"
+                },
+                "event_start": "2016-12-05",
+                "event_end": "2016-12-07",
+                "cfp_start": "2016-05-09",
+                "cfp_end": "2016-06-06",
                 "hashtag": "#confoo",
                 "organizers": [
                     {
