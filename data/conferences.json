@@ -3,7 +3,7 @@
     {
         "key": "ScotlandPHP",
         "name": "Scotland PHP",
-        "tags": ["scotland", "php", "edinburgh", "glasgow", "databases", "devops", "security"],
+        "tags": ["php", "databases", "devops", "security"],
         "first_event": "2016-10-29",
         "last_event": "",
         "speaker_kit": {
