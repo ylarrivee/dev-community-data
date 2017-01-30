@@ -1,6 +1,41 @@
 
 [
     {
+        "key": "JBCNconf",
+        "name": "JBCNconf",
+        "tags": ["java", "devops", "mobile"],
+        "first_event": "",
+        "last_event": "",
+        "speaker_kit": {
+            "ticket_included": false,
+            "hotel_included": false,
+            "travel_included": false
+        },
+        "events": [
+            {
+                "name": "JBCNconf 2017",
+                "location": {
+                    "name": "Barcelona, Spain"
+                },
+                "event_start": "2017-06-19",
+                "event_end": "2017-06-21",
+                "cfp_start": "2017-01-27",
+                "cfp_end": "2017-05-01",
+                "session_feed": "",
+                "speaker_feed": "",
+                "hashtag": "#JBCN17",
+                "organizers": [
+                    {
+                        "name": "Barcelona JUG",
+                        "twitter": "@BarcelonaJUG"
+                    }
+                ]
+            }
+        ],
+        "website": "http://www.jbcnconf.com",
+        "twitter": "@jbcnconf"
+    },
+    {
         "key": "swanseacon",
         "name": "SwanseaCon",
         "tags": ["agile"],
