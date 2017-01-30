@@ -871,5 +871,20 @@
         "website": "http://laravel-lexington.github.io/",
         "twitter": "@LaravelLex",
         "calendar_feed": ""
+    },
+    {
+        "key": "jamparuby",
+        "name": "Jampa Ruby",
+        "tags": ["ruby"],
+        "first_event": "2015-09-19",
+        "last_event": "2016-07-06",
+        "locations": [
+            {
+                "name": "Joao Pessoa, PB, Brazil"
+            }
+        ],
+        "website": "https://www.facebook.com/jamparuby/",
+        "twitter": "@JampaRuby",
+        "calendar_feed": ""
     }    
 ]
