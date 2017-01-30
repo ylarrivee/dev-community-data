@@ -249,6 +249,29 @@
                         "twitter": "@afilina"
                     }
                 ]
+            },
+            {
+                "name": "ConFoo Vancouver 2017",
+                "location": {
+                    "name": "Vancouver, BC, Canada"
+                },
+                "event_start": "2017-12-04",
+                "event_end": "2017-12-05",
+                "cfp_start": "2017-04-10",
+                "cfp_end": "2017-05-08",
+                "session_feed": "https://confoo.ca/yvr2017/sessions.json",
+                "speaker_feed": "https://confoo.ca/yvr2017/speakers.json",
+                "hashtag": "#confoo",
+                "organizers": [
+                    {
+                        "name": "Yann Larrivée",
+                        "twitter": "@ylarrivee"
+                    },
+                    {
+                        "name": "Anna Filina",
+                        "twitter": "@afilina"
+                    }
+                ]
             }
         ],
         "website": "https://confoo.ca",
