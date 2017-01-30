@@ -1,6 +1,23 @@
 
 [
     {
+        "key": "phpantwerp",
+        "name": "PHP Antwerp",
+        "tags": ["php"],
+        "first_event": "2015-07-01",
+        "last_event": "", 
+        "locations": [
+            {
+                "name": "Antwerp, Belgium",
+                "first_meetup": "2015-07-01",
+                "last_meetup": ""
+            }
+        ],
+        "website": "http://phpantwerp.be",
+        "twitter": "@phpantwerp",
+        "calendar_feed": "https://www.meetup.com/phpantwerp/events/rss/"
+    },    
+    {
         "key": "sdphp",
         "name": "San Diego PHP Usergroup",
         "tags": ["php"],
