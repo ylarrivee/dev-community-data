@@ -61,6 +61,7 @@ Tip: add your entry to the top of file to avoid merge conflicts.
                 "event_end": "yyyy-mm-dd",
                 "cfp_start": "yyyy-mm-dd",
                 "cfp_end": "yyyy-mm-dd",
+                "cfp_url": "https://example.com/2016/cfp"
                 "session_feed": "https://example.com/2016/sessions.json",
                 "speaker_feed": "https://example.com/2016/speakers.json",
                 "hashtag": "#hashtag",
