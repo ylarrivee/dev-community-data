@@ -1,5 +1,41 @@
 
 [
+      {
+        "key": "atmosphereconf",
+        "name": "Atmosphere Conference",
+        "tags": ["devops", "java", "python", "ruby", "performance", "security", "databases" ],
+        "first_event": "2013-05-13",
+        "last_event": "2016-05-17",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": false,
+            "travel_included": false
+        },
+        "events": [
+            {
+                "name": "Atmosphere Conference 2017",
+                "location": {
+                    "name": "Krakow, Poland"
+                },
+                "event_start": "2017-05-16",
+                "event_end": "2017-05-17",
+                "cfp_start": "2017-01-05",
+                "cfp_end": "2017-02-28",
+                "cfp_url": "http://2017.atmosphere-conference.com/cfp/",
+                "session_feed": "",
+                "speaker_feed": "",
+                "hashtag": "#atmosphereconf",
+                "organizers": [
+                    {
+                        "name": "PROIDEA",
+                        "twitter": "@PROIDEA_events"
+                    }
+                ]
+            }
+        ],
+        "website": "https://atmosphere-conference.com",
+        "twitter": "@atmosphereconf"
+    },
     {
         "key": "JBCNconf",
         "name": "JBCNconf",
