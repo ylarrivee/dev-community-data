@@ -1,6 +1,21 @@
 
 [
     {
+        "key": "phplaraveleindhoven",
+        "name": "PHP & Laravel Eindhoven",
+        "tags": ["php", "laravel"],
+        "first_event": "2015-11-18",
+        "last_event": "", 
+        "locations": [
+            {
+                "name": "Eindhoven, Netherlands",
+                "first_meetup": "2015-15-18",
+                "last_meetup": ""
+            }
+        ],
+        "calendar_feed": "https://www.meetup.com/PHP-Laravel-Eindhoven/events/rss/"
+    }, 
+    {
         "key": "phpantwerp",
         "name": "PHP Antwerp",
         "tags": ["php"],
