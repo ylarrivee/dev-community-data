@@ -28,6 +28,7 @@
             "react": {}
         },
         "nodejs": {},
+        "perl": {},
         "php": {
             "cakephp": {},
             "doctrine": {},
