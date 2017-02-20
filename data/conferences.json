@@ -1817,7 +1817,7 @@
     {
         "key": "openwest",
         "name": "OpenWest",
-        "tags": ["php", "security", "javascript", "perl", "opensource", "java"],
+        "tags": ["php", "security", "javascript", "perl", "java"],
         "first_event": "2007-09-06",
         "last_event": "",
         "speaker_kit": {
