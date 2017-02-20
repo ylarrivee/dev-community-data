@@ -1024,6 +1024,20 @@
                 "speaker_feed": "",
                 "organizers": [
                 ]
+            },
+            {
+                "name": "DPC17",
+                "location": {
+                    "name": "Amsterdam, Netherlands"
+                },
+                "event_start": "2017-06-29",
+                "event_end": "2017-07-01",
+                "cfp_start": "2017-01-08",
+                "cfp_end": "2017-02-26",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                ]
             }
         ],
         "website": "http://www.phpconference.nl/",
