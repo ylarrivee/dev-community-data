@@ -2,15 +2,17 @@
 
 [![Build Status](https://travis-ci.org/afilina/dev-community-data.svg?branch=master)](https://travis-ci.org/afilina/dev-community-data)
 
-The goal is simple: collect all data, current and historical for anyone to use in order to make a stronger developer community.
+The goal is simple: collect all data about technology events, current and historical for anyone to use in their applications, in order to make a stronger developer community.
 
-Feel free to add your own record, fix erroneous data and add additional fields.
+Feel free to add your own record for your conference or user group, fix erroneous data or add additional fields.
 
 ## User Groups
 
 The file [/data/user-groups.json](https://github.com/afilina/dev-community-data/blob/master/data/user-groups.json) lists all user groups. Leave "last_meetup" blank if still active.
 
 Tip: add your entry to the top of file to avoid merge conflicts.
+
+**Required Fields:** `key` (unique), `name`, `first_event`, `tags` ([allowable tag values](https://github.com/afilina/dev-community-data/blob/master/data/tags.json)).
 
 ```json
 {
@@ -36,7 +38,7 @@ Tip: add your entry to the top of file to avoid merge conflicts.
 
 The file [/data/conferences.json](https://github.com/afilina/dev-community-data/blob/master/data/conferences.json) lists all conferences. Leave "last_event" blank if still active.
 
-Tip: add your entry to the top of file to avoid merge conflicts.
+Tip: add your entry to the top of file to avoid merge conflicts.  Required fields same as user groups.
 
 ```json
 [
