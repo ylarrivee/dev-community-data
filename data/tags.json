@@ -3,6 +3,7 @@
     "agile": {},
     "arduino": {},
     "databases": {
+        "bigdata": {},
         "sql": {
             "cassandra": {},
             "mysql": {},
@@ -54,5 +55,9 @@
     "raspberry pi": {},
     "robotics": {},
     "security": {},
-    "ux": {}
+    "ux": {},
+    "webserver": {
+        "apache": {},
+        "nginx": {}
+    }
 }

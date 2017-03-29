@@ -3,7 +3,7 @@
     {
       "key": "apachecon",
       "name": "ApacheCon",
-      "tags": ["apache", "community", "opensource", "devops"],
+      "tags": ["apache", "devops"],
       "first_event": "1998-10-14",
       "last_event": "2017-05-18",
       "speaker_kit": {
@@ -37,7 +37,7 @@
     {
       "key": "apachebigdata",
       "name": "Apache: BigData",
-      "tags": ["apache", "bigdata", "hadoop", "spark"],
+      "tags": ["apache", "bigdata"],
       "first_event": "2015-09-28",
       "last_event": "2017-05-18",
       "speaker_kit": {
