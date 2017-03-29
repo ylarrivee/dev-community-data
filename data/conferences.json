@@ -1,5 +1,73 @@
 
 [
+    {
+      "key": "apachecon",
+      "name": "ApacheCon",
+      "tags": ["apache", "community", "opensource", "devops"],
+      "first_event": "1998-10-14",
+      "last_event": "2017-05-18",
+      "speaker_kit": {
+          "ticket_included": true,
+          "hotel_included": false,
+          "travel_included": false
+      },
+      "website": "http://apachecon.com/",
+      "twitter": "@apachecon",
+      "events": [
+          {
+              "name": "ApacheCon NA 2017",
+              "location": {
+                  "name": "Miami, FL, US"
+              },
+              "event_start": "2017-05-16",
+              "event_end": "2017-05-18",
+              "cfp_start": "2017-01-01",
+              "cfp_end": "2017-02-11",
+              "cfp_url": "http://events.linuxfoundation.org/events/apachecon-north-america/program/cfp",
+              "hashtag": "#apachecon",
+              "organizers": [
+                  {
+                      "name": "Rich Bowen",
+                      "twitter": "@rbowen"
+                  }
+              ]
+          }
+      ]
+    },
+    {
+      "key": "apachebigdata",
+      "name": "Apache: BigData",
+      "tags": ["apache", "bigdata", "hadoop", "spark"],
+      "first_event": "2015-09-28",
+      "last_event": "2017-05-18",
+      "speaker_kit": {
+          "ticket_included": true,
+          "hotel_included": false,
+          "travel_included": false
+      },
+      "website": "http://apachecon.com/",
+      "twitter": "@apachecon",
+      "events": [
+          {
+              "name": "ApacheCon BigData 2017",
+              "location": {
+                  "name": "Miami, FL, US"
+              },
+              "event_start": "2017-05-16",
+              "event_end": "2017-05-18",
+              "cfp_start": "2017-01-01",
+              "cfp_end": "2017-02-11",
+              "cfp_url": "http://events.linuxfoundation.org/events/apache-big-data-north-america/program/cfp",
+              "hashtag": "#apachebigdata",
+              "organizers": [
+                  {
+                      "name": "Rich Bowen",
+                      "twitter": "@rbowen"
+                  }
+              ]
+          }
+      ]
+    },
       {
         "key": "atmosphereconf",
         "name": "Atmosphere Conference",
