@@ -43,8 +43,15 @@ Tip: add your entry to the top of file to avoid merge conflicts.  Required field
 ```json
 [
     {
-        "key": "example",
+        "key": "uniquekey",
         "name": "Full conference name",
+        "website": "https://example.com",
+        "languages": "English",
+        "twitter": "@twitter_handle",
+        "facebook": "https://www.facebook.com/page_name",
+        "code_of_conduct": "https://example.com/coc",
+        "accessibility": "https://example.com/accessible",
+        "diversitytickets_url": "https://example.com/diversitytix",
         "tags": ["ruby"],
         "first_event": "yyyy-mm-dd",
         "last_event": "",
@@ -67,6 +74,7 @@ Tip: add your entry to the top of file to avoid merge conflicts.  Required field
                 "session_feed": "https://example.com/2016/sessions.json",
                 "speaker_feed": "https://example.com/2016/speakers.json",
                 "hashtag": "#hashtag",
+                "youtube": "https://youtube.com/playlist",
                 "organizers": [
                     {
                         "name": "Organizer Name",
@@ -74,9 +82,7 @@ Tip: add your entry to the top of file to avoid merge conflicts.  Required field
                     }
                 ]
             }
-        ],
-        "website": "https://example.com",
-        "twitter": "@twitter_handle"
+        ]
     }
 ]
 ```
