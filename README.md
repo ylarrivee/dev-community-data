@@ -36,55 +36,52 @@ Tip: add your entry to the top of file to avoid merge conflicts.
 
 ## Conferences
 
-The file [/data/conferences.json](https://github.com/afilina/dev-community-data/blob/master/data/conferences.json) lists all conferences. Leave "last_event" blank if still active.
+The files under [/data/conferences](https://github.com/afilina/dev-community-data/blob/master/data/conferences) list the various conferences. Each file contains the list of events associated with that conference.
 
-Tip: add your entry to the top of file to avoid merge conflicts.  Required fields same as user groups.
+**Required Fields:** `name`, `first_event`, `tags` ([allowable tag values](https://github.com/afilina/dev-community-data/blob/master/data/tags.json)).
 
 ```json
-[
-    {
-        "key": "uniquekey",
-        "name": "Full conference name",
-        "website": "https://example.com",
-        "languages": ["en"],
-        "twitter": "@twitter_handle",
-        "facebook": "https://www.facebook.com/page_name",
-        "code_of_conduct": "https://example.com/coc",
-        "accessibility": "https://example.com/accessible",
-        "diversity_tickets": "https://example.com/diversitytix",
-        "tags": ["ruby"],
-        "first_event": "yyyy-mm-dd",
-        "last_event": "",
-        "speaker_kit": {
-            "ticket_included": true,
-            "hotel_included": true,
-            "travel_included": true
-        },
-        "events": [
-            {
-                "name": "Name of specific edition",
-                "location": {
-                    "name": "City, State (if applies), Country"
-                },
-                "event_start": "yyyy-mm-dd",
-                "event_end": "yyyy-mm-dd",
-                "cfp_start": "yyyy-mm-dd",
-                "cfp_end": "yyyy-mm-dd",
-                "cfp_url": "https://example.com/2016/cfp",
-                "session_feed": "https://example.com/2016/sessions.json",
-                "speaker_feed": "https://example.com/2016/speakers.json",
-                "hashtag": "#hashtag",
-                "youtube": "https://youtube.com/playlist",
-                "organizers": [
-                    {
-                        "name": "Organizer Name",
-                        "twitter": "@twitter_handle"
-                    }
-                ]
-            }
-        ]
-    }
-]
+{
+    "name": "Full conference name",
+    "website": "https://example.com",
+    "languages": ["en"],
+    "twitter": "@twitter_handle",
+    "facebook": "https://www.facebook.com/page_name",
+    "code_of_conduct": "https://example.com/coc",
+    "accessibility": "https://example.com/accessible",
+    "diversity_tickets": "https://example.com/diversitytix",
+    "tags": ["ruby"],
+    "first_event": "yyyy-mm-dd",
+    "is_active": true,
+    "speaker_kit": {
+        "ticket_included": true,
+        "hotel_included": true,
+        "travel_included": true
+    },
+    "events": [
+        {
+            "name": "Name of specific edition",
+            "location": {
+                "name": "City, State (if applies), Country"
+            },
+            "event_start": "yyyy-mm-dd",
+            "event_end": "yyyy-mm-dd",
+            "cfp_start": "yyyy-mm-dd",
+            "cfp_end": "yyyy-mm-dd",
+            "cfp_url": "https://example.com/2016/cfp",
+            "session_feed": "https://example.com/2016/sessions.json",
+            "speaker_feed": "https://example.com/2016/speakers.json",
+            "hashtag": "#hashtag",
+            "youtube": "https://youtube.com/playlist",
+            "organizers": [
+                {
+                    "name": "Organizer Name",
+                    "twitter": "@twitter_handle"
+                }
+            ]
+        }
+    ]
+}
 ```
 
 ## Applications

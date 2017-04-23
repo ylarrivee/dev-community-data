@@ -1,0 +1,35 @@
+{
+    "name": "Java Forum Nord",
+    "tags": [
+        "java"
+    ],
+    "first_event": "2015-10-06",
+    "is_active": true,
+    "speaker_kit": {
+        "ticket_included": true,
+        "hotel_included": false,
+        "travel_included": false
+    },
+    "events": [
+        {
+            "name": "Java Forum Nord 2017",
+            "location": {
+                "name": "Hanover, Germany"
+            },
+            "event_start": "2017-09-12",
+            "event_end": "2017-09-12",
+            "cfp_start": "2017-02-19",
+            "cfp_end": "2017-04-23",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#jfn17",
+            "organizers": [
+                {
+                    "name": "Java User Group Deutschland e. V."
+                }
+            ]
+        }
+    ],
+    "website": "http://www.javaforumnord.de",
+    "twitter": "@JavaForumNord"
+}

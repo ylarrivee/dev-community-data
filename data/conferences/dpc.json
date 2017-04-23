@@ -1,0 +1,44 @@
+{
+    "name": "Dutch PHP Conference",
+    "tags": [
+        "php"
+    ],
+    "first_event": "2016-06-23",
+    "is_active": true,
+    "speaker_kit": {
+        "ticket_included": true,
+        "hotel_included": true,
+        "travel_included": true
+    },
+    "events": [
+        {
+            "name": "DPC16",
+            "location": {
+                "name": "Amsterdam, Netherlands"
+            },
+            "event_start": "2016-06-23",
+            "event_end": "2016-06-25",
+            "cfp_start": "2016-01-08",
+            "cfp_end": "2016-02-22",
+            "session_feed": "",
+            "speaker_feed": "",
+            "organizers": []
+        },
+        {
+            "name": "DPC17",
+            "location": {
+                "name": "Amsterdam, Netherlands"
+            },
+            "event_start": "2017-06-29",
+            "event_end": "2017-07-01",
+            "cfp_start": "2017-01-08",
+            "cfp_end": "2017-02-26",
+            "cfp_url": "https://www.phpconference.nl/call-for-papers-dpc",
+            "session_feed": "",
+            "speaker_feed": "",
+            "organizers": []
+        }
+    ],
+    "website": "http://www.phpconference.nl/",
+    "twitter": "@dpcon"
+}

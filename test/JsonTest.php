@@ -28,18 +28,18 @@ class JsonTest extends PHPUnit_Framework_TestCase
      */
     public function testConferencesJson()
     {
-        $data = $this->loadJsonFile('conferences.json');
-        $validTags = $this->flattenHierarchy($this->loadJsonFile('tags.json'));
-
+        $files = $this->listJsonFiles('conferences');
+        
         // Check data integrity.
-        $keys = [];
-        foreach ($data as $i => $entry) {
-            $this->assertArrayHasKey('key', $entry, 'Entry #'.$i);
-            $this->assertArrayHasKey('name', $entry, 'Entry '.$entry['key']);
-            $this->assertArrayHasKey('first_event', $entry, 'Entry '.$entry['key']);
-            $this->assertNotContains($entry['key'], $keys, 'Key must be unique within the file.');
-            $this->assertValidTags($entry['tags'], $validTags, $entry['key']);
-            $keys[] = $entry['key'];
+        foreach ($files as $i => $fileName) {
+            $entry = $this->loadJsonFile($fileName);
+            $validTags = $this->flattenHierarchy($this->loadJsonFile('tags.json'));
+            preg_match_all('/([^\/]+).json/', $fileName, $matches);
+            $key = $matches[1][0];
+
+            $this->assertArrayHasKey('name', $entry, 'Entry '.$key);
+            $this->assertArrayHasKey('first_event', $entry, 'Entry '.$key);
+            $this->assertValidTags($entry['tags'], $validTags, $key);
         }
     }
 
@@ -61,6 +61,14 @@ class JsonTest extends PHPUnit_Framework_TestCase
             $this->assertValidTags($entry['tags'], $validTags, $entry['key']);
             $keys[] = $entry['key'];
         }
+    }
+
+    private function listJsonFiles($folder)
+    {
+        $folderPath = __DIR__ . '/../data/';
+        chdir($folderPath);
+        $files = glob($folder.'/*.json');
+        return $files;
     }
 
     private function loadJsonFile($file)

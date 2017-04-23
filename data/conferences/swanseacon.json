@@ -1,0 +1,36 @@
+{
+    "name": "SwanseaCon",
+    "tags": [
+        "agile"
+    ],
+    "first_event": "",
+    "is_active": true,
+    "speaker_kit": {
+        "ticket_included": true,
+        "hotel_included": true,
+        "travel_included": false
+    },
+    "events": [
+        {
+            "name": "SwanseaCon 2017",
+            "location": {
+                "name": "Swansea, South Wale, United Kingdom"
+            },
+            "event_start": "2017-09-25",
+            "event_end": "2017-09-26",
+            "cfp_start": "2016-12-01",
+            "cfp_end": "2017-02-17",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#SwanseaCon",
+            "organizers": [
+                {
+                    "name": "Skills Matter",
+                    "twitter": "@skillsmatter"
+                }
+            ]
+        }
+    ],
+    "website": "http://swanseacon.co.uk/",
+    "twitter": "@SwanseaCon"
+}

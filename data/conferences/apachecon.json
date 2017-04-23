@@ -1,0 +1,36 @@
+{
+    "name": "ApacheCon",
+    "tags": [
+        "apache",
+        "devops"
+    ],
+    "first_event": "1998-10-14",
+    "is_active": true,
+    "speaker_kit": {
+        "ticket_included": true,
+        "hotel_included": false,
+        "travel_included": false
+    },
+    "website": "http://apachecon.com/",
+    "twitter": "@apachecon",
+    "events": [
+        {
+            "name": "ApacheCon NA 2017",
+            "location": {
+                "name": "Miami, FL, US"
+            },
+            "event_start": "2017-05-16",
+            "event_end": "2017-05-18",
+            "cfp_start": "2017-01-01",
+            "cfp_end": "2017-02-11",
+            "cfp_url": "http://events.linuxfoundation.org/events/apachecon-north-america/program/cfp",
+            "hashtag": "#apachecon",
+            "organizers": [
+                {
+                    "name": "Rich Bowen",
+                    "twitter": "@rbowen"
+                }
+            ]
+        }
+    ]
+}

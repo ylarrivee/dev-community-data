@@ -1,0 +1,133 @@
+{
+    "name": "PHP South Coast",
+    "tags": [
+        "php"
+    ],
+    "first_event": "2015-07-18",
+    "is_active": true,
+    "speaker_kit": {
+        "ticket_included": true,
+        "hotel_included": true,
+        "travel_included": false
+    },
+    "events": [
+        {
+            "name": "PHP South Coast 2015",
+            "location": {
+                "name": "Portsmouth, UK"
+            },
+            "event_start": "2015-07-18",
+            "event_end": "2015-07-18",
+            "cfp_start": "2014-12-08",
+            "cfp_end": "2015-01-12",
+            "session_feed": "",
+            "speaker_feed": "",
+            "organizers": [
+                {
+                    "name": "James Titcumb",
+                    "twitter": "@asgrim"
+                },
+                {
+                    "name": "David Baker",
+                    "twitter": "@fully_baked"
+                },
+                {
+                    "name": "Rich Sage",
+                    "twitter": "@rich_81"
+                },
+                {
+                    "name": "Alex Ross",
+                    "twitter": "@rossey"
+                },
+                {
+                    "name": "Steve Lacey",
+                    "twitter": "@stevelacey"
+                },
+                {
+                    "name": "David Hulbert",
+                    "twitter": "@dave1010"
+                },
+                {
+                    "name": "Phil Bennett",
+                    "twitter": "@phil_bennett"
+                },
+                {
+                    "name": "Dasha Luna",
+                    "twitter": "@dashaluna"
+                },
+                {
+                    "name": "Lee Boynton",
+                    "twitter": "@leeboynton"
+                },
+                {
+                    "name": "Ashley Pinner",
+                    "twitter": "@neothermic"
+                },
+                {
+                    "name": "Hannah Titcumb",
+                    "twitter": "@hanzor"
+                }
+            ]
+        },
+        {
+            "name": "PHP South Coast 2016",
+            "location": {
+                "name": "Portsmouth, UK"
+            },
+            "event_start": "2016-06-11",
+            "event_end": "2016-06-11",
+            "cfp_start": "2015-12-01",
+            "cfp_end": "2016-01-12",
+            "session_feed": "",
+            "speaker_feed": "",
+            "organizers": [
+                {
+                    "name": "James Titcumb",
+                    "twitter": "@asgrim"
+                },
+                {
+                    "name": "Rich Sage",
+                    "twitter": "@rich_81"
+                },
+                {
+                    "name": "Ashley Pinner",
+                    "twitter": "@neothermic"
+                },
+                {
+                    "name": "Lee Boynton",
+                    "twitter": "@leeboynton"
+                },
+                {
+                    "name": "Michael Cullum",
+                    "twitter": "@michaelcullumuk"
+                },
+                {
+                    "name": "Gary Hockin",
+                    "twitter": "@GeeH"
+                },
+                {
+                    "name": "Alex Ross",
+                    "twitter": "@rossey"
+                },
+                {
+                    "name": "Hannah Titcumb",
+                    "twitter": "@hanzor"
+                },
+                {
+                    "name": "Dave Hulbert",
+                    "twitter": "@dave1010"
+                },
+                {
+                    "name": "Christopher Hoult",
+                    "twitter": "@choult"
+                },
+                {
+                    "name": "Lee Stone",
+                    "twitter": "@leesto"
+                }
+            ]
+        }
+    ],
+    "website": "https://www.phpsouthcoast.co.uk/",
+    "twitter": "@phpsouthcoast"
+}

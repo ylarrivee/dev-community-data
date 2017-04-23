@@ -1,0 +1,55 @@
+{
+    "name": "Web à Québec",
+    "tags": [
+        "css",
+        "html",
+        "ux",
+        "marketing"
+    ],
+    "first_event": "2012-02-22",
+    "is_active": true,
+    "events": [
+        {
+            "name": "Web à Québec 2012",
+            "location": {
+                "name": "Quebec, QC, Canada"
+            },
+            "event_start": "2012-02-22",
+            "event_end": "2012-02-24"
+        },
+        {
+            "name": "Web à Québec 2013",
+            "location": {
+                "name": "Quebec, QC, Canada"
+            },
+            "event_start": "2013-02-20",
+            "event_end": "2013-02-22"
+        },
+        {
+            "name": "Web à Québec 2014",
+            "location": {
+                "name": "Quebec, QC, Canada"
+            },
+            "event_start": "2014-03-19",
+            "event_end": "2014-03-21"
+        },
+        {
+            "name": "Web à Québec 2015",
+            "location": {
+                "name": "Quebec, QC, Canada"
+            },
+            "event_start": "2015-03-18",
+            "event_end": "2015-03-20"
+        },
+        {
+            "name": "Web à Québec 2016",
+            "location": {
+                "name": "Quebec, QC, Canada"
+            },
+            "event_start": "2016-04-06",
+            "event_end": "2016-04-08"
+        }
+    ],
+    "website": "http://webaquebec.org/",
+    "twitter": "@webaquebec"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "jsDay",
+    "tags": [
+        "javascript"
+    ],
+    "first_event": "2012-05-16",
+    "is_active": true,
+    "speaker_kit": {
+        "ticket_included": true,
+        "hotel_included": true,
+        "travel_included": true
+    },
+    "events": [
+        {
+            "name": "jsDay 2017",
+            "location": {
+                "name": "Verona, Italy"
+            },
+            "event_start": "2017-05-10",
+            "event_end": "2017-05-11",
+            "cfp_start": "2016-08-08",
+            "cfp_end": "2017-01-31",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "",
+            "organizers": [
+                {
+                    "name": "JS Italian Conf",
+                    "twitter": "@jsconfit"
+                }
+            ]
+        }
+    ],
+    "website": "http://cfp.jsday.it/",
+    "twitter": "@jsconfit"
+}
