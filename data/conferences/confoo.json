@@ -1,0 +1,188 @@
+{
+    "name": "ConFoo",
+    "tags": [
+        "php",
+        "dotnet",
+        "accessibility",
+        "databases",
+        "devops",
+        "html",
+        "css",
+        "iot",
+        "java",
+        "javascript",
+        "ecommerce",
+        "nodejs",
+        "mobile",
+        "ruby",
+        "performance",
+        "security"
+    ],
+    "first_event": "2010-03-08",
+    "is_active": true,
+    "speaker_kit": {
+        "ticket_included": true,
+        "hotel_included": true,
+        "travel_included": true
+    },
+    "events": [
+        {
+            "name": "ConFoo 2010",
+            "location": {
+                "name": "Montreal, QC, Canada"
+            },
+            "event_start": "2010-03-08",
+            "event_end": "2010-03-12",
+            "session_feed": "https://confoo.ca/2010/sessions.json",
+            "speaker_feed": "https://confoo.ca/2010/speakers.json",
+            "hashtag": "#confoo"
+        },
+        {
+            "name": "ConFoo 2011",
+            "location": {
+                "name": "Montreal, QC, Canada"
+            },
+            "event_start": "2011-03-07",
+            "event_end": "2011-03-11",
+            "session_feed": "https://confoo.ca/2011/sessions.json",
+            "speaker_feed": "https://confoo.ca/2011/speakers.json",
+            "hashtag": "#confoo"
+        },
+        {
+            "name": "ConFoo 2012",
+            "location": {
+                "name": "Montreal, QC, Canada"
+            },
+            "event_start": "2012-02-27",
+            "event_end": "2012-03-02",
+            "session_feed": "https://confoo.ca/2012/sessions.json",
+            "speaker_feed": "https://confoo.ca/2012/speakers.json",
+            "hashtag": "#confoo"
+        },
+        {
+            "name": "ConFoo 2013",
+            "location": {
+                "name": "Montreal, QC, Canada"
+            },
+            "event_start": "2013-02-25",
+            "event_end": "2013-03-01",
+            "session_feed": "https://confoo.ca/2013/sessions.json",
+            "speaker_feed": "https://confoo.ca/2013/speakers.json",
+            "hashtag": "#confoo"
+        },
+        {
+            "name": "ConFoo 2014",
+            "location": {
+                "name": "Montreal, QC, Canada"
+            },
+            "event_start": "2014-02-24",
+            "event_end": "2014-12-28",
+            "session_feed": "https://confoo.ca/2014/sessions.json",
+            "speaker_feed": "https://confoo.ca/2014/speakers.json",
+            "hashtag": "#confoo"
+        },
+        {
+            "name": "ConFoo 2015",
+            "location": {
+                "name": "Montreal, QC, Canada"
+            },
+            "event_start": "2015-02-16",
+            "event_end": "2015-02-20",
+            "session_feed": "https://confoo.ca/2015/sessions.json",
+            "speaker_feed": "https://confoo.ca/2015/speakers.json",
+            "hashtag": "#confoo"
+        },
+        {
+            "name": "ConFoo Montreal 2016",
+            "location": {
+                "name": "Montreal, QC, Canada"
+            },
+            "event_start": "2016-02-22",
+            "event_end": "2016-02-26",
+            "cfp_start": "2015-08-21",
+            "cfp_end": "2015-09-20",
+            "session_feed": "https://confoo.ca/2016/sessions.json",
+            "speaker_feed": "https://confoo.ca/2016/speakers.json",
+            "hashtag": "#confoo",
+            "organizers": [
+                {
+                    "name": "Yann Larrivée",
+                    "twitter": "@ylarrivee"
+                },
+                {
+                    "name": "Anna Filina",
+                    "twitter": "@afilina"
+                }
+            ]
+        },
+        {
+            "name": "ConFoo Vancouver 2016",
+            "location": {
+                "name": "Vancouver, BC, Canada"
+            },
+            "event_start": "2016-12-05",
+            "event_end": "2016-12-07",
+            "cfp_start": "2016-05-09",
+            "cfp_end": "2016-06-06",
+            "session_feed": "https://confoo.ca/yvr2016/sessions.json",
+            "speaker_feed": "https://confoo.ca/yvr2016/speakers.json",
+            "hashtag": "#confoo",
+            "organizers": [
+                {
+                    "name": "Yann Larrivée",
+                    "twitter": "@ylarrivee"
+                },
+                {
+                    "name": "Anna Filina",
+                    "twitter": "@afilina"
+                }
+            ]
+        },
+        {
+            "name": "ConFoo Montreal 2017",
+            "location": {
+                "name": "Montreal, QC, Canada"
+            },
+            "event_start": "2017-03-08",
+            "event_end": "2017-03-10",
+            "cfp_start": "2016-08-21",
+            "cfp_end": "2016-09-20",
+            "hashtag": "#confoo",
+            "organizers": [
+                {
+                    "name": "Yann Larrivée",
+                    "twitter": "@ylarrivee"
+                },
+                {
+                    "name": "Anna Filina",
+                    "twitter": "@afilina"
+                }
+            ]
+        },
+        {
+            "name": "ConFoo Vancouver 2017",
+            "location": {
+                "name": "Vancouver, BC, Canada"
+            },
+            "event_start": "2017-12-04",
+            "event_end": "2017-12-05",
+            "cfp_start": "2017-04-10",
+            "cfp_end": "2017-05-08",
+            "session_feed": "https://confoo.ca/yvr2017/sessions.json",
+            "speaker_feed": "https://confoo.ca/yvr2017/speakers.json",
+            "hashtag": "#confoo",
+            "organizers": [
+                {
+                    "name": "Yann Larrivée",
+                    "twitter": "@ylarrivee"
+                },
+                {
+                    "name": "Anna Filina",
+                    "twitter": "@afilina"
+                }
+            ]
+        }
+    ],
+    "website": "https://confoo.ca",
+    "twitter": "@confooca"
+}

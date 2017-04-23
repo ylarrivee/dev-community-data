@@ -1,0 +1,22 @@
+{
+    "name": "RubyNation",
+    "tags": [
+        "ruby"
+    ],
+    "first_event": "2016-06-03",
+    "is_active": true,
+    "events": [
+        {
+            "name": "RubyNation 2016",
+            "location": {
+                "name": "Washington, DC, United States"
+            },
+            "event_start": "2016-06-03",
+            "event_end": "2016-06-04",
+            "cfp_start": "2016-03-15",
+            "cfp_end": "2016-04-08"
+        }
+    ],
+    "website": "http://www.rubynation.org/",
+    "twitter": ""
+}

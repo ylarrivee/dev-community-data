@@ -1,0 +1,20 @@
+{
+    "name": "Hackfest",
+    "tags": [
+        "security"
+    ],
+    "first_event": "2008",
+    "is_active": true,
+    "events": [
+        {
+            "name": "Hackfest 2015",
+            "location": {
+                "name": "Quebec, QC, Canada"
+            },
+            "event_start": "2015-11-06",
+            "event_end": "2015-11-07"
+        }
+    ],
+    "website": "http://www.hackfest.ca",
+    "twitter": "@hackfest_ca"
+}

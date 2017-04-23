@@ -1,0 +1,45 @@
+{
+    "name": "WindyCityThings",
+    "tags": [
+        "iot",
+        "robotics",
+        "arduino",
+        "raspberry pi",
+        "prototyping",
+        "manufacturing",
+        "nodejs",
+        "ecommerce",
+        "performance",
+        "security"
+    ],
+    "first_event": "2016-06-23",
+    "is_active": true,
+    "speaker_kit": {
+        "ticket_included": true,
+        "hotel_included": true,
+        "travel_included": false
+    },
+    "events": [
+        {
+            "name": "WindyCityThings 2016",
+            "location": {
+                "name": "Chicago, IL, USA"
+            },
+            "event_start": "2016-06-23",
+            "event_end": "2016-06-24",
+            "cfp_start": "2016-02-01",
+            "cfp_end": "2016-04-15",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#wct",
+            "organizers": [
+                {
+                    "name": "WisdomGroup",
+                    "twitter": "@wisdomgroup"
+                }
+            ]
+        }
+    ],
+    "website": "https://windycitythings.com",
+    "twitter": "@windycitythings"
+}
