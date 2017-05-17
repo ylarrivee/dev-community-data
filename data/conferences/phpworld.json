@@ -1,0 +1,143 @@
+{
+    "name": "php[world]",
+    "tags": [  "php", "wordpress", "drupal", "laravel", "magento", "symfony", "zend framework", "cakephp" ],
+    "first_event": "2014-11-10",
+    "is_active": true,
+    "speaker_kit": {
+        "ticket_included": true,
+        "hotel_included": true,
+        "travel_included": true
+    },
+    "events": [
+        {
+            "name": "php[world] 2017",
+            "location": {
+                "name": "Washington, D.C., USA"
+            },
+            "event_start": "2017-11-13",
+            "event_end": "2017-11-16",
+            "cfp_start": "2017-05-12",
+            "cfp_end": "2017-06-24",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#phpworld",
+            "organizers": [
+                {
+                    "name": "Eli White",
+                    "twitter": "@EliW"
+                },
+                {
+                    "name": "Heather White",
+                    "twitter": "@CattyHeather"
+                },
+                {
+                    "name": "Oscar Merida",
+                    "twitter": "@omerida"
+                }
+            ]
+        },
+        {
+            "name": "php[world] 2016",
+            "location": {
+                "name": "Washington, D.C., USA"
+            },
+            "event_start": "2016-11-14",
+            "event_end": "2016-11-18",
+            "cfp_start": "2016-05-12",
+            "cfp_end": "2016-06-24",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#phpworld",
+            "organizers": [
+                {
+                    "name": "Eli White",
+                    "twitter": "@EliW"
+                },
+                {
+                    "name": "Heather White",
+                    "twitter": "@CattyHeather"
+                },
+                {
+                    "name": "Oscar Merida",
+                    "twitter": "@omerida"
+                },
+                {
+                    "name": "Kevin Bruce",
+                    "twitter": "@kevinbruce"
+                }
+            ]
+        },
+        {
+            "name": "php[world] 2015",
+            "location": {
+                "name": "Washington, D.C., USA"
+            },
+            "event_start": "2015-11-16",
+            "event_end": "2015-11-20",
+            "cfp_start": "2015-05-30",
+            "cfp_end": "2015-07-01",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#phpworld",
+            "organizers": [
+                {
+                    "name": "Eli White",
+                    "twitter": "@EliW"
+                },
+                {
+                    "name": "Heather White",
+                    "twitter": "@CattyHeather"
+                },
+                {
+                    "name": "Oscar Merida",
+                    "twitter": "@omerida"
+                },
+                {
+                    "name": "Kevin Bruce",
+                    "twitter": "@kevinbruce"
+                },
+                {
+                    "name": "Sandy Smith",
+                    "twitter": "@SandyS1"
+                }
+            ]
+        },
+        {
+            "name": "php[world] 2014",
+            "location": {
+                "name": "Washington, D.C., USA"
+            },
+            "event_start": "2014-11-10",
+            "event_end": "2014-11-14",
+            "cfp_start": "2014-06-10",
+            "cfp_end": "2014-06-20",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#phpworld",
+            "organizers": [
+                {
+                    "name": "Eli White",
+                    "twitter": "@EliW"
+                },
+                {
+                    "name": "Heather White",
+                    "twitter": "@CattyHeather"
+                },
+                {
+                    "name": "Oscar Merida",
+                    "twitter": "@omerida"
+                },
+                {
+                    "name": "Kevin Bruce",
+                    "twitter": "@kevinbruce"
+                },
+                {
+                    "name": "Sandy Smith",
+                    "twitter": "@SandyS1"
+                }
+            ]
+        }
+    ],
+    "website": "https://world.phparch.com/",
+    "twitter": "@phparch"
+}

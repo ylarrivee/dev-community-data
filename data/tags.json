@@ -33,8 +33,11 @@
         "php": {
             "cakephp": {},
             "doctrine": {},
+            "drupal": {},
             "laravel": {},
+            "magento": {},
             "symfony": {},
+            "wordpress": {},
             "zend framework": {}
         },
         "python": {

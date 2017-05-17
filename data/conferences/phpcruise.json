@@ -1,0 +1,73 @@
+{
+    "name": "php[cruise]",
+    "tags": [  "php", "javascript", "ux" ],
+    "first_event": "2004-03-01",
+    "is_active": true,
+    "speaker_kit": {
+        "ticket_included": true,
+        "hotel_included": true,
+        "travel_included": true
+    },
+    "events": [
+        {
+            "name": "php[cruise] 2016",
+            "location": {
+                "name": "Baltimore, MD, USA"
+            },
+            "event_start": "2016-07-17",
+            "event_end": "2016-07-24",
+            "cfp_start": "",
+            "cfp_end": "",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#phpcruise",
+            "organizers": [
+                {
+                    "name": "Eli White",
+                    "twitter": "@EliW"
+                },
+                {
+                    "name": "Heather White",
+                    "twitter": "@CattyHeather"
+                },
+                {
+                    "name": "Oscar Merida",
+                    "twitter": "@omerida"
+                },
+                {
+                    "name": "Kevin Bruce",
+                    "twitter": "@kevinbruce"
+                },
+                {
+                    "name": "Sandy Smith",
+                    "twitter": "@SandyS1"
+                }
+            ]
+        },
+        {
+            "name": "php|cruise",
+            "location": {
+                "name": "Port Canaveral, FL, USA"
+            },
+            "event_start": "2004-03-01",
+            "event_end": "2004-03-05",
+            "cfp_start": "",
+            "cfp_end": "",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "",
+            "organizers": [
+                {
+                    "name": "Marco Tabini",
+                    "twitter": "@mtabini"
+                },
+                {
+                    "name": "Arbi Arzoumani",
+                    "twitter": "@arzoum"
+                }
+            ]
+        }
+    ],
+    "website": "https://cruise.phparch.com/",
+    "twitter": "@phparch"
+}
