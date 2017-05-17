@@ -97,11 +97,16 @@ class JsonTest extends PHPUnit_Framework_TestCase
 
     public function jsonFileProvider()
     {
-        return [
+        chdir('data/conferences');
+        $confFiles = glob('*.json');
+        $confFiles = array_map(function($item) {
+            return ['conferences/'.$item];
+        }, $confFiles);
+
+        return array_merge([
             ['user-groups.json'],
-            ['conferences.json'],
             ['tags.json'],
-        ];
+        ], $confFiles);
 
     }
 
