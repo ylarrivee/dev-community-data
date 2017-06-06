@@ -901,5 +901,20 @@
         "website": "https://www.facebook.com/jamparuby/",
         "twitter": "@JampaRuby",
         "calendar_feed": ""
-    }    
+    },
+    {
+        "key": "istanbulphp",
+        "name": "İstanbul PHP user-group",
+        "tags": ["php"],
+        "first_event": "2014-02-22",
+        "last_event": "", 
+        "locations": [
+            {
+                "name": "Istanbul, Turkey",
+                "first_meetup": "2017-06-05",
+                "last_meetup": "2014-10-15"
+            }
+        ],
+        "calendar_feed": "https://www.meetup.com/istanbulphp/events/rss/"
+    }   
 ]
