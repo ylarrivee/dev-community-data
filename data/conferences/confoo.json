@@ -16,7 +16,10 @@
         "mobile",
         "ruby",
         "performance",
-        "security"
+        "security",
+        "artificial intelligence",
+        "blockchain",
+        "big data"
     ],
     "first_event": "2010-03-08",
     "is_active": true,
@@ -181,7 +184,25 @@
                     "twitter": "@afilina"
                 }
             ]
+        },
+        {
+            "name": "ConFoo Montreal 2018",
+            "location": {
+                "name": "Montreal, QC, Canada"
+            },
+            "event_start": "2018-03-07",
+            "event_end": "2018-03-09",
+            "cfp_start": "2017-08-21",
+            "cfp_end": "2017-09-20",
+            "hashtag": "#confoo",
+            "organizers": [
+                {
+                    "name": "Yann Larrivée",
+                    "twitter": "@ylarrivee"
+                }
+            ]
         }
+
     ],
     "website": "https://confoo.ca",
     "twitter": "@confooca"
