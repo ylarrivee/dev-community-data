@@ -11,9 +11,28 @@
     "speaker_kit": {
         "ticket_included": true,
         "hotel_included": true,
-        "travel_included": false
+        "travel_included": true
     },
     "events": [
+        {
+            "name": "Scotland PHP 2017",
+            "location": {
+                "name": "Edinburgh, Scotland, United Kingdom"
+            },
+            "event_start": "2017-11-04",
+            "event_end": "2017-11-04",
+            "cfp_start": "2017-05-10",
+            "cfp_end": "2017-08-01",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#scotphp17",
+            "organizers": [
+                {
+                    "name": "Scotland PHP",
+                    "twitter": "@scotlandphp"
+                }
+            ]
+        },
         {
             "name": "Scotland PHP 2016",
             "location": {
@@ -25,7 +44,7 @@
             "cfp_end": "2016-06-30",
             "session_feed": "",
             "speaker_feed": "",
-            "hashtag": "#ScotlandPHP",
+            "hashtag": "#scotphp16",
             "organizers": [
                 {
                     "name": "Scotland PHP",
@@ -35,5 +54,7 @@
         }
     ],
     "website": "http://conference.scotlandphp.co.uk/",
-    "twitter": "@scotlandphp"
+    "twitter": "@scotlandphp",
+    "facebook": "https://www.facebook.com/ScottishPUGs",
+    "code_of_conduct": "https://conference.scotlandphp.co.uk/code-of-conduct"
 }
