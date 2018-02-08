@@ -12,12 +12,39 @@
         {
             "name": "CoderCruise",
             "location": {
-                "name": "Baltimore, MD, USA"
+                "name": "New Orleans, LA, USA"
             },
             "event_start": "2017-07-16",
             "event_end": "2017-07-23",
             "cfp_start": "2016-12-07",
             "cfp_end": "2017-01-06",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#CoderCruise",
+            "organizers": [
+                {
+                    "name": "Eli White",
+                    "twitter": "@EliW"
+                },
+                {
+                    "name": "Heather White",
+                    "twitter": "@CattyHeather"
+                },
+                {
+                    "name": "One for All Events",
+                    "twitter": "@oneforallevents"
+                }
+            ]
+        },
+        {
+            "name": "CoderCruise 2018",
+            "location": {
+                "name": "Ft. Lauderdale, FL, USA"
+            },
+            "event_start": "2018-08-30",
+            "event_end": "2018-09-03",
+            "cfp_start": "2018-02-01",
+            "cfp_end": "2018-02-28",
             "session_feed": "",
             "speaker_feed": "",
             "hashtag": "#CoderCruise",
