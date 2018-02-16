@@ -1,0 +1,42 @@
+{
+    "name": "Mid-Atlantic Developer Conference",
+    "tags": [  "cloud", "mobile", "ruby", "python", "java", "php", "javascript", "ux", "devops", "nodejs", "go", "dotnet" ],
+    "first_event": "2018-07-13",
+    "is_active": true,
+    "speaker_kit": {
+        "ticket_included": true,
+        "hotel_included": true,
+        "travel_included": false
+    },
+    "events": [
+        {
+            "name": "Mid-Atlantic Developer Conference",
+            "location": {
+                "name": "Baltimore, MD, USA"
+            },
+            "event_start": "2018-07-13",
+            "event_end": "2018-07-14",
+            "cfp_start": "2018-02-14",
+            "cfp_end": "2018-03-31",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#MADC",
+            "organizers": [
+                {
+                    "name": "Eli White",
+                    "twitter": "@EliW"
+                },
+                {
+                    "name": "Heather White",
+                    "twitter": "@CattyHeather"
+                },
+                {
+                    "name": "One for All Events",
+                    "twitter": "@oneforallevents"
+                }
+            ]
+        }
+    ],
+    "website": "https://www.middevcon.com",
+    "twitter": "@middevcon"
+}
