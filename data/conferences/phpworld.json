@@ -10,6 +10,33 @@
     },
     "events": [
         {
+            "name": "php[world] 2018",
+            "location": {
+                "name": "Washington, D.C., USA"
+            },
+            "event_start": "2017-11-14",
+            "event_end": "2017-11-15",
+            "cfp_start": "2017-07-01",
+            "cfp_end": "2017-07-22",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#phpworld",
+            "organizers": [
+                {
+                    "name": "Eli White",
+                    "twitter": "@EliW"
+                },
+                {
+                    "name": "Heather White",
+                    "twitter": "@CattyHeather"
+                },
+                {
+                    "name": "Oscar Merida",
+                    "twitter": "@omerida"
+                }
+            ]
+        },
+        {
             "name": "php[world] 2017",
             "location": {
                 "name": "Washington, D.C., USA"
